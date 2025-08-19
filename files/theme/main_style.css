@@ -21,7 +21,7 @@ a {
 body {
 	font-family: 'Gentium Book Basic', serif;
 	font-size: 13px;
-	background:#86492D url(wood-bg.jpg) fixed center left;
+	background:#86492D url(./wood-bg.jpg) fixed center left;
 }
 
 body.wsite-custom-background {
@@ -175,7 +175,7 @@ div#content {min-height:400px;}
 
 #nav-wrap .wsite-search-button {
 	position: relative;
-	background:#fff url(eyeglass.png) center no-repeat;
+	background:#fff url(./eyeglass.png) center no-repeat;
 	width: 30px;
 	height: 30px;
 	border: 1px solid #d3d3d3;
@@ -190,7 +190,7 @@ td.nav {height:44px;}
 #nav-wrap .container {
 	clear: both;
 	position: relative;
-	background: url(nav-bg.png) repeat-x center left;
+	background: url(./nav-bg.png) repeat-x center left;
 	height: 54px;
 	width:966px;
 	padding-top:5px;
@@ -224,7 +224,7 @@ td.nav {height:44px;}
 #nav-wrap .nav ul li#active a,
 #nav-wrap .nav ul li a:hover {
 	color: #505050;
-	background: url(nav-link-bg.png) repeat-x left 28px;
+	background: url(./nav-link-bg.png) repeat-x left 28px;
 	border: 0;
 }
 
@@ -234,7 +234,7 @@ td.nav {height:44px;}
 	background: #fff;
 }
 #wsite-menus .wsite-menu ul {
-	background: url(submenu-ul-bg.png) no-repeat bottom left;
+	background: url(./submenu-ul-bg.png) no-repeat bottom left;
 	height: 9px;
 }
 #wsite-menus .wsite-menu li a {
@@ -246,7 +246,7 @@ td.nav {height:44px;}
 
 #wsite-menus .wsite-menu li a:hover {
 	color: #171717;
-	background: url(submenu-hover-bg.png) repeat center left;
+	background: url(./submenu-hover-bg.png) repeat center left;
 }
 
 /* Header: Social Links
@@ -262,7 +262,7 @@ td.nav {height:44px;}
 	height: 25px !important;
 	margin: 3px 0 0 3px !important;
 	padding:0 !important;
-	background-image:url(social-beige.png) !important;
+	background-image:url(./social-beige.png) !important;
 }
 
 .wsite-social-facebook {background-position:0 0;}
@@ -302,7 +302,7 @@ td.nav {height:44px;}
 /* Universal banner
 --------------------------------------------------------------------------------*/
 #banner-wrap .container .divider {
-	background: url(divider.png) no-repeat bottom left;
+	background: url(./divider.png) no-repeat bottom left;
 	height: 34px;
     margin: 20px 0;
     width: 969px;
@@ -316,14 +316,14 @@ td.nav {height:44px;}
 --------------------------------------------------------------------------------*/
 
 .tall-header-page #banner {	
-	background: url(banner-tall-bg.png) no-repeat;
+	background: url(./banner-tall-bg.png) no-repeat;
 	height: 408px;
 }
 
 .tall-header-page .wsite-header {
 	width: 954px;
 	height: 384px;
-	background: url(banner-tall.jpg) no-repeat;
+	background: url(./banner-tall.jpg) no-repeat;
 	float: left;
 	 margin: 11px 6px;
 }
@@ -333,13 +333,13 @@ td.nav {height:44px;}
 
 .short-header-page #banner {
 	height: 204px;
-	background: url(banner-short-bg.png) no-repeat;
+	background: url(./banner-short-bg.png) no-repeat;
 }
 
 .short-header-page .wsite-header {
 	width: 954px;
 	height: 180px;
-	background: url(banner-short.jpg) no-repeat;
+	background: url(./banner-short.jpg) no-repeat;
 	float: left;
 	margin: 11px 6px;
 }
@@ -356,12 +356,12 @@ td.nav {height:44px;}
 
 .landing-page #banner {
 	height: 408px;
-	background: url(banner-landing-bg.png) no-repeat;
+	background: url(./banner-landing-bg.png) no-repeat;
 }
 .landing-page .wsite-header {
 	width: 954px;
 	height: 384px;
-	background: url(banner-landing.jpg) no-repeat;
+	background: url(./banner-landing.jpg) no-repeat;
 	float: left;
 	margin: 12px 8px;
 }
@@ -385,7 +385,7 @@ td.nav {height:44px;}
 }
 
 #bannerright {
-	background: url(landing-right-bg.png) no-repeat;
+	background: url(./landing-right-bg.png) no-repeat;
 	float: left;
     height: 420px;
     margin: 0 15px;
@@ -416,9 +416,9 @@ td.nav {height:44px;}
 
 /* Main Content
 --------------------------------------------------------------------------------*/
-#main-wrap {background: url(content-bg.png) repeat-y center top;}
+#main-wrap {background: url(./content-bg.png) repeat-y center top;}
 .divider {
-	background: url(divider.png) no-repeat center bottom;
+	background: url(./divider.png) no-repeat center bottom;
 	height: 34px;
     margin: 25px 0 20px;    
     width: 100%;
@@ -426,12 +426,12 @@ td.nav {height:44px;}
 #main-wrap .container {}
 
 #main-wrap .content-top {
-	background: url(content-bg-top.png) no-repeat center top;
+	background: url(./content-bg-top.png) no-repeat center top;
     width: 976px;
 	margin:0 auto;
 }
 #main-wrap .content-bottom {
-	background: url(content-bg-bottom.png) no-repeat center bottom;	
+	background: url(./content-bg-bottom.png) no-repeat center bottom;	
     min-height: 707px;
     padding: 30px 0px;
     width: 976px;
@@ -459,7 +459,7 @@ td.nav {height:44px;}
 }
 
 /*#footer-wrap .container {
-	background: url(content-bg.png) repeat-y center left;
+	background: url(./content-bg.png) repeat-y center left;
 	background: #fff;
 	padding: 40px 42px;
 }*/
@@ -471,13 +471,13 @@ td.nav {height:44px;}
 }
 
 #footer-wrap .content-top {
-	background: url(content-bg-top.png) no-repeat center top;
+	background: url(./content-bg-top.png) no-repeat center top;
     width: 976px;
 	margin:0 auto;
 	padding-top:15px;
 }
 #footer-wrap .content-repeat {
-	background: url(content-bg.png) repeat-y center top;
+	background: url(./content-bg.png) repeat-y center top;
     width: 976px;
 	padding-top:20px;
 	padding-bottom:15px;
@@ -536,7 +536,7 @@ td.nav {height:44px;}
 	height: 44px;
 	display: inline-block;
 	padding: ;
-	background: url(button.png) no-repeat 100% -132px;
+	background: url(./button.png) no-repeat 100% -132px;
 }
 
 .wsite-button:hover {
@@ -556,7 +556,7 @@ td.nav {height:44px;}
 	font-size: 18px;
 	font-weight: bold;
 	text-decoration: ;
-	background: url(button.png) no-repeat 0px 0px;
+	background: url(./button.png) no-repeat 0px 0px;
 	text-shadow:0 -1px 1px rgba(0,0,0,0.7);
 }
 
@@ -573,7 +573,7 @@ td.nav {height:44px;}
 .wsite-button-large {
 	color: #fff !important;
 	height: 54px;
-	background: url(button_large.png) no-repeat 100% -162px;
+	background: url(./button_large.png) no-repeat 100% -162px;
 	padding: 0 22px 0 0;
 }
 
@@ -589,7 +589,7 @@ td.nav {height:44px;}
 	height: 54px;
 	line-height: 54px;
 	padding: 0 0 0 22px;
-	background: url(button_large.png) no-repeat 0px 0px;
+	background: url(./button_large.png) no-repeat 0px 0px;
 }
 
 .wsite-button-large:hover .wsite-button-inner {
@@ -604,19 +604,19 @@ td.nav {height:44px;}
 /* Highlighted styles */
 
 .wsite-button-highlight {
-	background-image: url(button_highlight.png);
+	background-image: url(./button_highlight.png);
 }
 
 .wsite-button-highlight .wsite-button-inner {
-	background-image: url(button_highlight.png);
+	background-image: url(./button_highlight.png);
 }
 
 .wsite-button-large.wsite-button-highlight {
-	background-image: url(button_large_highlight.png);
+	background-image: url(./button_large_highlight.png);
 }
 
 .wsite-button-large.wsite-button-highlight .wsite-button-inner {
-	background-image: url(button_large_highlight.png);
+	background-image: url(./button_large_highlight.png);
 }
-	background-image: url(button_large_highlight.png);
+	background-image: url(./button_large_highlight.png);
 }
