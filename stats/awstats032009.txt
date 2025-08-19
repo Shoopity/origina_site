@@ -1,0 +1,547 @@
+AWSTATS DATA FILE 6.5 (build 1.857)
+# If you remove this file, all statistics for date 200903 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2544                
+POS_VISITOR 10450               
+POS_DAY 15870               
+POS_DOMAIN 3409                
+POS_LOGIN 3643                
+POS_ROBOT 3798                
+POS_WORMS 4280                
+POS_EMAILSENDER 4411                
+POS_EMAILRECEIVER 4554                
+POS_SESSION 16724               
+POS_SIDER 16934               
+POS_FILETYPES 4689                
+POS_OS 4801                
+POS_BROWSER 4938                
+POS_SCREENSIZE 5175                
+POS_UNKNOWNREFERER 5249                
+POS_UNKNOWNREFERERBROWSER 5811                
+POS_ORIGIN 6162                
+POS_SEREFERRALS 6305                
+POS_PAGEREFS 6519                
+POS_SEARCHWORDS 7090                
+POS_KEYWORDS 7889                
+POS_MISC 2207                
+POS_ERRORS 8262                
+POS_CLUSTER 3499                
+POS_SIDER_404 8378                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090401042606 157 42864 17421196246
+FirstTime 20090301075101
+LastTime 20090331230329
+LastUpdate 20090430044245 157 156 0 0 0
+TotalVisits 186                 
+TotalUnique 125                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 133                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 40 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 62 30086517 34 37 248548
+1 9 26 10875787 31 33 116592
+2 15 79 50118110 42 42 387079
+3 9 10 257437 27 27 199038
+4 10 10 212498 32 32 282035
+5 7 7 154079 38 40 3395302
+6 3 3 58419 24 24 154647
+7 13 49 26895743 44 45 568999
+8 4 4 61046 46 47 527142
+9 19 149 96875685 32 60 2042014
+10 25 110 55453347 57 59 5647073
+11 36 173 79881757 29 32 1666276
+12 27 140 72310451 34 45 6536141
+13 30 142 81332589 27 30 1502984
+14 35 130 52680149 29 34 2443880
+15 26 147 78438927 47 53 1709134
+16 24 171 88604754 32 73 5328946
+17 16 79 41532338 42 50 3943717
+18 32 111 57381756 14 17 2946233
+19 36 164 63992111 31 33 847504
+20 23 121 4833176 28 30 134625
+21 12 90 47604345 28 31 2500873
+22 15 92 45205655 22 30 8342711
+23 15 77 40765822 33 35 1476097
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 464 2146 1025612498
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+internetseer 232 38946 20090331213520 0
+googlebot 193 7409696 20090330014441 0
+slurp 132 2749403 20090331213128 0
+nutch 14 308158 20090326044004 0
+robot 13 212855 20090325000943 0
+jeeves 12 230706 20090330102437 0
+crawl 9 159333 20090310035756 0
+\wbot[\/\-] 7 154079 20090314080446 0
+yandex 7 136311 20090331204727 0
+msnbot 3 57620 20090325194629 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 464 8888777 0 0
+jpg 1190 1016382745 0 0
+gif 492 340976 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+macosx 92
+winlong 146
+winxp 1669
+win2003 19
+win2000 12
+winnt 15
+Unknown 183
+linux 1
+linuxfedora 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+msie8.0 62
+msie6.0 894
+firefox1.0.7 9
+firefox3.0.7 101
+webcollage 1
+mozilla 65
+firefox1.0 1
+firefox3.0.6 88
+msie7.0 695
+opera 21
+netscape4.0 4
+wget 2
+netscape4.8 1
+Unknown 137
+safari 65
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20090304082135
+Java/1.6.0_07 20090321055731
+Yanga_WorldSearch_Bot_v1.1/beta_(http://www.yanga.co.uk/) 20090331172403
+Wget/1.11.4 20090319032919
+webcollage1/1.129 20090324120307
+panscient.com 20090307183031
+Mozilla/4.0 20090311113705
+- 20090319203809
+Mozilla/4.0_(compatible;) 20090310020858
+BlackBerry8830/4.5.0.33_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/104 20090306182950
+Java/1.6.0_04 20090323004259
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+- 20090319203809
+Java/1.6.0_07 20090321055731
+Yanga_WorldSearch_Bot_v1.1/beta_(http://www.yanga.co.uk/) 20090331172403
+BlackBerry8830/4.5.0.33_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/104 20090306182950
+Java/1.6.0_04 20090323004259
+panscient.com 20090307183031
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 233 326
+From1 0 0
+From2 39 46
+From3 23 23
+From4 169 1751
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 15 15
+search 2 2
+aol 1 1
+google_image 8 15
+yahoo 11 11
+msn 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://www.horseandmuletrails.com/Co.htm 8 8
+http://www.keywordspy.com/keyword-research/continentalranchatcreede.com 6 6
+http://horseandmuletrails.com/Co.htm 2 2
+http://focaldepth.com/randomlinks/continentalranchatcreede.com 1 1
+http://www.truemiles.com 1 1
+http://www.textlesson.com 1 1
+http://www.teedirect.com 1 1
+http://us.mg2.mail.yahoo.com/dc/blank.html 1 1
+http://74.125.95.132/search 1 1
+http://focaldepth.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 22
+continental+ranch+rentals 4
+continental+ranch+colorado 4
+freemon+s+guest+ranch 2
+continental+ranch+creede+co 2
+continental+ranch+creede+colorado 2
+contential+reservoir 1
+continnetal+ranch 1
+continental+ranch+at+creeke.com 1
+charlene+ameel 1
+slumgullion+pass+lodging 1
+continental+ranch+tx 1
+continental+ranch+at+creede 1
+continental+ranch+creede 1
+continental+ranch+cabins 1
+www.continentalranchatcreede.com 1
+fishing+on+the+continental+ranch+creede+colorado 1
+dabney+ranch+creede+colorodo 1
+continental+ranch+climbing 1
+ranch 1
+continental+reservoir+colorado 1
+freemon+s+general+store+and+guest+ranch 1
+continental+guest+ranch+creede+colorado 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 31
+ranch 26
+continental 21
+creede 9
+colorado 9
+guest 4
+rentals 4
+freemon 3
+s 3
+at 2
+co 2
+general 1
+colorodo 1
+the 1
+ameel 1
+continnetal 1
+slumgullion 1
+on 1
+lodging 1
+contential 1
+cabins 1
+charlene 1
+climbing 1
+reservoir 2
+tx 1
+pass 1
+store 1
+www.continentalranchatcreede.com 1
+fishing 1
+creeke.com 1
+and 1
+dabney 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 1 235
+206 61 41340979
+404 255 149269
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 30
+/_vti_bin/owssvr.dll 4 -
+/robots.txt 198 -
+/Moose1.JPG 2 http://continentalranchatcreede.com/id4.html
+/patchance1.jpg 2 http://continentalranchatcreede.com/id4.html
+/100_0349.JPG 1 http://continentalranchatcreede.com/id1.html
+/woodstove.jpg 1 http://continentalranchatcreede.com/id1.html
+/100-06932.jpg 2 http://continentalranchatcreede.com/
+/Flower1.jpg 2 http://continentalranchatcreede.com/id4.html
+/100_0357.JPG 1 http://continentalranchatcreede.com/id1.html
+/100_0426.JPG 2 http://continentalranchatcreede.com/
+/100_0637.JPG 2 http://continentalranchatcreede.com/id4.html
+/JODYFISH.jpg.jpg 2 http://continentalranchatcreede.com/id4.html
+/MSOffice/cltreq.asp 4 -
+/Morrison2008_042.jpg 2 http://continentalranchatcreede.com/id4.html
+/100_0348.JPG 2 http://continentalranchatcreede.com/id2.html
+/000_0001.jpg 2 http://continentalranchatcreede.com/id3.html
+/wh2.jpg 1 http://continentalranchatcreede.com/id1.html
+/100_07222.jpg 4 http://continentalranchatcreede.com/id2.html
+/varmint6.jpg 2 http://continentalranchatcreede.com/id4.html
+/noexist_a3b701227431e505.html 2 -
+/IMGPICNIC.jpg.jpg 2 http://continentalranchatcreede.com/id4.html
+/grandfather_dog.jpg 2 http://continentalranchatcreede.com/id2.html
+/DSC00474.jpg 2 http://continentalranchatcreede.com/id4.html
+/100_0411.JPG 2 http://continentalranchatcreede.com/id4.html
+/100_0666.JPG 2 http://continentalranchatcreede.com/id4.html
+/imagelib/sitebuilder/misc/src%3D%27 1 http://www.continentalranchatcreede.com/imagelib/sitebuilder/misc/show_image.html
+/chip3.jpg 1 http://continentalranchatcreede.com/id1.html
+/waterwell.jpg 1 http://continentalranchatcreede.com/id1.html
+/morrisonfamily_097.jpg 2 http://continentalranchatcreede.com/id4.html
+/100_0651.JPG 2 http://continentalranchatcreede.com/id4.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 133
+69.226.197.110 22 22 396558 20090312150809
+74.52.45.250 21 21 462237 20090328141424
+75.100.62.120 15 164 26856797 20090328203559
+91.205.124.9 14 68 45538990 20090331172403
+168.47.99.41 12 87 49777092 20090316154702
+65.190.178.140 12 63 28405438 20090331230329
+74.60.140.139 11 47 26856797 20090329075540
+38.100.8.50 9 9 159333 20090307183031
+69.58.178.32 9 9 159333 20090315143324
+192.168.151.35 9 38 15958717 20090324162552
+72.35.175.130 3 28 16052225 20090308194040
+205.188.116.141 0 1 5773 
+208.80.195.44 2 2 38946 20090331003237
+64.56.65.37 6 6 116838 20090322154947
+208.80.195.54 1 1 19473 20090319141049
+202.120.38.188 0 2 583685 
+199.125.99.108 1 1 0 20090310175950
+68.37.136.146 5 35 12959086 20090306220938
+207.119.144.187 2 12 4599380 20090305171218
+216.138.13.170 1 10 4106763 20090323213721
+71.221.109.196 2 12 4599380 20090317113413
+206.104.3.250 8 54 30799272 20090306163317
+204.244.59.138 1 10 4106763 20090327110104
+64.213.130.198 2 12 4599380 20090326100820
+68.63.207.85 1 10 4106763 20090327181841
+174.131.228.132 5 41 26820022 20090326115454
+69.198.32.226 7 54 27456192 20090311131702
+91.212.65.95 4 4 77892 20090312192031
+66.190.97.14 3 15 7046105 20090311003306
+75.166.172.15 5 32 19692521 20090323105142
+76.84.32.203 1 4 24334 20090312104710
+208.80.195.41 3 3 58419 20090319135856
+205.188.116.19 0 1 3611257 
+208.80.195.47 8 8 155784 20090329230627
+68.63.182.134 1 10 4106763 20090308130442
+198.237.90.1 1 11 3785381 20090331141145
+205.188.116.130 0 1 797145 
+209.183.51.47 3 25 14804135 20090325133546
+208.80.195.38 3 3 58419 20090329203229
+12.73.102.158 3 15 8922347 20090319124250
+208.80.194.122 2 2 38946 20090302034223
+68.201.75.245 2 10 516994 20090303205222
+72.57.163.167 1 10 4106763 20090312110820
+207.46.92.18 0 1 82180 
+208.80.195.43 1 1 19473 20090319171001
+205.188.116.131 0 1 1192 
+65.55.109.144 1 1 34162 20090303205426
+38.108.180.124 3 3 40774 20090304082135
+205.147.98.23 4 17 6261525 20090316190421
+208.80.195.46 1 1 19473 20090322034206
+75.254.37.179 4 16 2210467 20090301120242
+206.53.144.161 2 30 17446581 20090306182943
+70.49.162.15 2 15 6710612 20090327140349
+72.151.187.211 6 6 134606 20090313105628
+174.131.235.181 4 30 17957369 20090307112753
+195.176.146.92 6 42 26837324 20090310020857
+208.2.113.102 1 10 4106763 20090326164806
+206.246.9.58 4 30 17955198 20090327233051
+199.125.99.96 5 24 15064802 20090308221728
+208.80.195.28 1 1 19473 20090310162840
+208.80.195.31 1 1 19473 20090331031704
+72.14.193.3 4 4 0 20090319203809
+99.139.193.231 3 21 11271039 20090315021229
+208.115.138.254 2 2 53635 20090311113705
+208.80.195.34 4 4 77892 20090327194323
+76.251.180.177 5 31 17970036 20090314150322
+72.94.249.34 1 1 19473 20090305194952
+205.188.117.71 0 1 67 
+208.80.195.30 1 1 19473 20090327193105
+208.80.195.39 1 1 19473 20090322010207
+205.188.117.5 0 2 1394691 
+76.120.105.160 5 26 12493383 20090317142832
+216.106.26.196 5 21 18480824 20090312134210
+74.52.245.146 1 1 19473 20090303195457
+89.122.29.80 7 7 154079 20090323004259
+38.105.83.11 8 8 156706 20090314112347
+67.142.130.16 7 88 55263731 20090315163756
+89.137.246.24 7 7 154079 20090321055731
+66.140.110.184 1 10 4106763 20090312113940
+199.239.30.124 2 19 10778422 20090305134212
+199.125.99.80 1 1 0 20090312173421
+75.120.181.170 1 10 4106763 20090314210946
+88.198.112.187 1 1 19473 20090305134228
+212.247.42.177 1 1 0 20090323113020
+70.169.112.105 1 10 4106763 20090301223039
+75.16.182.30 1 10 4106763 20090322145042
+38.97.225.2 2 27 17445279 20090305133216
+75.171.254.156 1 8 5828799 20090321221752
+208.80.195.36 3 3 58419 20090313021806
+72.174.212.137 2 18 12502179 20090322190015
+98.209.143.45 4 35 19147251 20090314092823
+208.80.195.51 1 1 19473 20090308171041
+72.174.250.72 8 60 32859856 20090327103846
+174.149.65.111 3 23 16254377 20090316144111
+71.221.105.37 2 13 12493383 20090317182448
+208.80.195.45 4 4 77892 20090329202758
+150.70.84.26 1 1 19473 20090302191411
+70.169.112.81 3 13 4616682 20090312165322
+72.179.14.108 4 32 20148363 20090302231444
+208.80.194.42 1 1 19473 20090301075101
+65.183.112.35 3 36 24116938 20090302123509
+208.80.194.49 1 1 19473 20090304040505
+208.80.195.29 1 1 19473 20090308092633
+204.116.179.118 2 12 4599380 20090313213043
+204.246.129.196 2 2 53635 20090309123502
+208.80.194.45 1 1 19473 20090303011148
+74.93.224.209 1 10 4106763 20090313162405
+208.80.195.40 3 3 58419 20090314231306
+89.122.29.37 7 7 154079 20090307182329
+216.253.211.90 1 8 5828799 20090302150617
+151.190.254.108 6 49 29043986 20090311113734
+195.140.173.201 1 1 19473 20090308182920
+67.142.130.22 5 61 40904112 20090312094922
+208.80.194.40 1 1 19473 20090302172030
+208.80.195.42 2 2 38946 20090327222204
+208.80.195.32 1 1 19473 20090331003630
+208.80.195.35 6 6 116838 20090326180815
+71.208.92.247 3 34 20513417 20090322225910
+170.215.67.101 2 14 4124065 20090303152754
+69.156.53.129 4 4 77892 20090326001138
+208.80.194.33 4 4 77892 20090304023918
+64.190.178.38 1 14 6680455 20090312153042
+205.188.116.72 1 1 18674 20090309172203
+189.191.136.208 2 15 4816877 20090313140226
+69.68.66.153 7 49 36264398 20090324093748
+208.80.195.49 4 4 77892 20090320222413
+129.115.195.41 1 10 4106763 20090323174658
+217.93.204.193 1 11 6627179 20090304132459
+63.148.191.224 8 44 26856797 20090302103512
+208.80.195.52 3 3 58419 20090318083023
+94.67.46.246 1 5 1623787 20090307150730
+212.247.42.176 1 1 0 20090321112121
+66.71.253.13 1 1 19473 20090330042825
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20090301 7 28 6356176 4
+20090302 24 141 84827365 10
+20090303 13 59 22312137 9
+20090304 4 14 6668752 4
+20090305 28 132 66352910 13
+20090306 8 54 23170961 4
+20090307 26 56 19991933 9
+20090308 14 67 35321155 8
+20090309 19 114 72954005 8
+20090310 10 46 26895743 5
+20090311 19 96 46213058 7
+20090312 45 161 79413856 12
+20090313 12 44 13677099 5
+20090314 21 88 41521355 7
+20090315 19 118 66694103 3
+20090316 8 47 24969702 3
+20090317 10 52 29605619 4
+20090318 3 4 559924 3
+20090319 17 64 33728749 8
+20090320 10 10 212498 4
+20090321 14 48 28713427 4
+20090322 18 95 54349262 8
+20090323 18 63 28118545 8
+20090324 18 89 52262061 5
+20090325 3 25 14804135 1
+20090326 16 80 39769239 8
+20090327 12 78 37044518 8
+20090328 23 175 27035210 3
+20090329 14 50 26915216 4
+20090330 1 1 19473 1
+20090331 10 47 15134312 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 16
+0s-30s 135
+30s-2mn 12
+2mn-5mn 14
+15mn-30mn 2
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 196 3602505 152 110
+/id3.html 60 786414 3 11
+/id1.html 55 1417379 12 18
+/id4.html 53 1639776 4 23
+/id2.html 46 802982 8 10
+/id5.html 37 605570 4 7
+/imagelib/sitebuilder/misc/show_image.html 13 34151 1 5
+/googlea3b701227431e505.html 4 0 2 2
+END_SIDER

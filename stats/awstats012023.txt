@@ -1,0 +1,1473 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 202301 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 24524               
+POS_DAY 50386               
+POS_DOMAIN 3484                
+POS_LOGIN 3718                
+POS_ROBOT 3873                
+POS_WORMS 4581                
+POS_EMAILSENDER 4712                
+POS_EMAILRECEIVER 4855                
+POS_SESSION 51306               
+POS_SIDER 51518               
+POS_FILETYPES 4990                
+POS_OS 5193                
+POS_BROWSER 5346                
+POS_SCREENSIZE 5944                
+POS_UNKNOWNREFERER 6018                
+POS_UNKNOWNREFERERBROWSER 7084                
+POS_ORIGIN 7803                
+POS_SEREFERRALS 7951                
+POS_PAGEREFS 8128                
+POS_SEARCHWORDS 9580                
+POS_KEYWORDS 9732                
+POS_MISC 2204                
+POS_ERRORS 9791                
+POS_CLUSTER 3574                
+POS_SIDER_404 9948                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230201003423 17907 4569394 33536606615
+FirstTime 0
+LastTime 20230131222804
+LastUpdate 20230201021826 17907 17545 361 0 0
+TotalVisits 833                 
+TotalUnique 619                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 693                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 53 246 14843126 140 258 701036
+1 49 170 8234249 212 346 5041417
+2 51 161 15783708 133 297 1490445
+3 32 122 6964216 107 282 520993
+4 28 60 2764692 167 307 303174
+5 24 45 1152899 79 112 218224
+6 26 78 2850824 131 229 993366
+7 19 49 1873943 148 204 1480931
+8 98 375 30940549 242 389 3670371
+9 75 296 24529677 163 308 674328
+10 87 356 23851302 333 442 1131007
+11 107 532 37894721 486 760 4306684
+12 151 529 43156328 304 429 1502000
+13 137 601 49843170 300 455 2022513
+14 249 872 57770245 682 1002 2940188
+15 126 531 46175482 276 475 4723522
+16 114 527 39680205 249 372 958441
+17 126 549 53017485 246 419 1080057
+18 45 184 15304586 158 282 785882
+19 138 499 46010659 201 429 490921
+20 87 358 26372203 200 422 950120
+21 139 492 34767203 348 562 4268373
+22 70 283 18373710 164 341 548757
+23 55 219 24620501 292 475 636435
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2086 8134 626775683
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+googlebot 517 14494274 20230131174906 168
+bot[+:,\.\;\/\\-] 444 15781895 20230131225517 126
+spider 368 5470589 20230131140252 0
+infobot 177 2512512 20230131222940 26
+cfnetwork 68 359144 20230125221726 0
+yandex 65 775466 20230130152420 33
+unknown 46 1079 20230131114207 46
+java 17 0 20230119112208 0
+robot 15 87887 20230126051324 9
+custo 15 125568 20230130002652 0
+no_user_agent 9 64515 20230129072844 0
+mail\.ru 14 95418 20230131185648 6
+python 13 71605 20230128110837 10
+netcraft 3 44842 20230108220810 0
+baiduspider 4 14758 20230104010149 0
+crawl 7 132859 20230128234703 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 167 0 0 0
+css 413 7879183 0 0
+png 1613 47674792 0 0
+html 1919 16589470 0 0
+xml 10 6354 0 0
+jpg 3728 553545825 0 0
+js 272 157359 0 0
+jpeg 12 922700 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 11
+winlong 8
+winxp 21
+unix 1
+win2000 3
+winnt 3929
+win98 1
+winvista 8
+linux 1177
+macosx 2608
+Unknown 144
+win2008 234
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 41
+firefox66.0 1
+msie6.0 4
+firefox10.0 2
+chrome 5301
+firefox26.0 1
+msie4.5 1
+firefox52.0 20
+firefox4.0 4
+firefox106.0 1
+firefox104.0 2
+firefox24.0 4
+firefox105.0 4
+msie8.0 1
+firefox109.0 62
+firefox62.0 1
+msie7.0 1
+firefox59.0 2
+firefox94.0 3
+firefox65.0 1
+firefox108.0 25
+msie9.0 174
+Unknown 101
+firefox17.0 14
+opera 2
+firefox72.0 3
+firefox58.0 2
+firefox67.0 1
+firefox78.0 1
+firefox68.0 4
+firefox90.0 2
+firefox33.0 1
+konqueror 8
+firefox75.0 1
+mozilla 97
+netscape5.0 2
+firefox92.0 46
+firefox22.0 1
+firefox51.0 1
+firefox3.5 1
+firefox35.0 2
+safari 2229
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_33) 20230128132727
+test 20230128023216
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230111083303
+Mozilla/5.0_Firefox/26.0 20230120221544
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230125120900
+got_(https://github.com/sindresorhus/got) 20230105024858
+Mozilla/5.0_Firefox/35.0 20230126121853
+Mozilla/5.0_(Android_8.0.0;_Mobile;_rv:61.0)_Gecko/61.0_Firefox/68.0 20230126075933
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230115064806
+odysseus0/1 20230106085225
+Mozilla/5.0_(Android_7.0;_Mobile;_LG-M150;_rv:68.0)_Gecko/68.0_Firefox/68.0 20230126082242
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_29) 20230125042445
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_31) 20230116094324
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20230128182423
+Go-http-client/1.1 20230116104349
+AHC/2.1 20230118133958
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_33) 20230128132727
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_31) 20230116094324
+odysseus0/1 20230106085225
+Dalvik/2.1.0_(Linux;_U;_Android_9;_SM-G892A_Build/PPR1.180610.011) 20230119194432
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_29) 20230125042445
+test 20230128023216
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20230128182423
+Dalvik/2.1.0_(Linux;_U;_Android_9.0;_ZTE_BA520_Build/MRA58K) 20230122153000
+Go-http-client/1.1 20230116104349
+got_(https://github.com/sindresorhus/got) 20230105024858
+AHC/2.1 20230118133958
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 564 676
+From1 1 1
+From2 129 289
+From3 407 1797
+From4 985 5371
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 126 286
+aol 1 1
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 31
+https://creedeanimalclinic.com/index.html 164 439
+https://creedeanimalclinic.com/our-services.html 43 96
+https://creedeanimalclinic.com 38 38
+https://creedeanimalclinic.com/find-us.html 38 83
+https://creedeanimalclinic.com/meet-the-team.html 21 279
+https://creedeanimalclinic.com. 18 18
+https://www.creedeanimalclinic.com/index.html 17 62
+https://www.bing.com 13 14
+https://creedeanimalclinic.com/photos.html 12 194
+http://baidu.com 8 8
+https://creedeanimalclinic.com 1 1
+https://www.creedeanimalclinic.com 6 7
+http://creedeanimalclinic.com 1 1
+http://baidu.com 2 2
+http://www.thegreensociety.net 1 1
+https://lm.facebook.com 1 1
+https://www.creedeanimalclinic.com/find-us.html 1 3
+https://www.creedeanimalclinic.com/meet-the-team.html 4 23
+http://www.epcpolo.com 1 1
+https://www.creedeanimalclinic.com/files/mobile/main_style.css 0 19
+http://m.facebook.com 2 2
+https://creedeanimalclinic.com/files/mobile/main_style.css 0 63
+https://duckduckgo.com 3 3
+https://developer.mozilla.org/en-US/docs/Web/JavaScript 1 1
+http://cato.brightcloud.com 1 1
+https://66.96.149.17:443 1 1
+https://creedeanimalclinic.com/files/main_style.css 0 409
+https://m.facebook.com 1 1
+https://l.facebook.com 7 7
+https://www.creedeanimalclinic.com/our-services.html 1 3
+https://www.creedeanimalclinic.com/files/main_style.css 0 16
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 4 868
+302 3389 801437
+206 11 255019
+407 3 1245
+404 3163 36264
+301 1245 311941
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 373
+/wp-content/plugins/teeyfzo/wso112233.php 1 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/new/meet-the-team.html 1 -
+/lalakfak.php 1 www.google.com
+/api/.env 1 -
+/wordpress/ 4 -
+/v2/_catalog 2 -
+/wp-content/plugins/core-engine/index.php 1 -
+/admin.php 4 -
+/jmazfjyj.php 1 www.google.com
+/site/wp-includes/wlwmanifest.xml 2 -
+/wp-admin/install.php 3 -
+/Shop 1 http://creedeanimalclinic.com/Shop
+/iks/spring/login 2 -
+/wp-content/themes/seotheme/mar.php 12 www.google.com
+/bala.php 2 -
+/sites/default/files/ 4 binance.com
+/bc 5 http://continentalranchatcreede.com/bc
+/test/wp-includes/wlwmanifest.xml 2 -
+/mt/ 1 -
+/nf_tracking.php 2 -
+/,%20https:/us.provetcloud.com/4879/onlinebooking/ 4 -
+/index.html/wordpress/wp-includes/wlwmanifest.xml 71 -
+/_W.CustomerAccounts.BackboneCollectionData 2 -
+/wp/wp-admin/install.php 1 -
+/doc.php 1 -
+/th1s_1s_a_4o4.html 62 -
+/files/theme/content-bg-bottom.png 1 https://continentalranchatcreede.com/files/main_style.css
+/index.html/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 9 -
+/admin/assets/js/ckeditor/filemanager/dialog.php 1 -
+/, 4 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/index.html/wp-includes/wlwmanifest.xml 68 -
+/wp-content/plugins/ccx/index.php 1 www.google.com
+/assets/plugins/filemanager/dialog.php 1 -
+/BACKUP 1 http://creedeanimalclinic.com/BACKUP
+/test/ 1 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/old 5 http://continentalranchatcreede.com/old
+/assets/filemanager/dialog.php 1 -
+/wp-content/uploads/2021/12/up.php 1 -
+/index.html/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 9 -
+/admin/global/plugins/filemanager/dialog.php 1 -
+/style.php 37 -
+/main 5 http://continentalranchatcreede.com/main
+/index.html/blog/wp-includes/wlwmanifest.xml 71 -
+/blog/wp-json/wp/v2/users 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 6 www.google.com
+/wp-json/wp/v2/users 1 -
+/index.html/test/wp-includes/wlwmanifest.xml 71 -
+/old-site 1 http://creedeanimalclinic.com/old-site
+/assets/js/kcfinder/upload.php 1 -
+/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/.well-known/ 4 binance.com
+/wp-admin/style.php 37 -
+/login.action 2 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/_W.CustomerAccounts.BackboneBootstrap 2 -
+/CustomerAccounts.Collection.CustomerAccounts 2 -
+/index.html/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 9 -
+/ALFA_DATA/alfacgiapi/perl.alfa 4 www.google.com
+/Www 1 http://creedeanimalclinic.com/Www
+/index.html 4 https://continentalranchatcreede.com/photos-and-directions.html
+/s/7313e2934313e26393e26363/_/ 1 -
+/license.txt 2 -
+/gdpr/gdprscript.js 928 https://continentalranchatcreede.com/cabins.html
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/ofc/php-ofc-library/ofc_upload_image.php 2 -
+/old/wp-admin/install.php 1 -
+/new 5 http://continentalranchatcreede.com/new
+/admin/filemanager/dialog.php 1 -
+/ads.txt 104 http://creedeanimalclinic.com/ads.txt
+/wp-admin/wso.php 1 -
+/BLOG 1 http://creedeanimalclinic.com/BLOG
+/bedesk1.1/.env 1 -
+/bk 5 http://continentalranchatcreede.com/bk
+/up.php 1 -
+/php-ofc-library/ofc_upload_image.php 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/boutique/assets/scripts/filemanager/dialog.php 1 -
+/blog/wp-admin/install.php 1 -
+/simpla/ 2 -
+/index.html/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 9 -
+/site/wp-admin/install.php 1 -
+/readme.html 2 -
+/uploads/3/4/7/3/34735303/9198243.jpg 1 https://continentalranchatcreede.com/index.html
+/blog/.env 1 -
+/files/theme/banner-short.jpg 1 https://continentalranchatcreede.com/files/main_style.css
+/about 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/index.html/2021/wp-includes/wlwmanifest.xml 3 -
+/site 1 http://creedeanimalclinic.com/site
+/2022 1 http://creedeanimalclinic.com/2022
+/index.html/site/wp-includes/wlwmanifest.xml 71 -
+/index.html/wp1/wp-includes/wlwmanifest.xml 71 -
+/backup 5 http://continentalranchatcreede.com/backup
+/lzcknvvv.php 1 www.google.com
+/WWW 1 http://creedeanimalclinic.com/WWW
+/admin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/manager/ 2 -
+/wp-admin/admin-post.php 1 www.google.com
+/admin/ckeditor/kcfinder/upload.php 1 -
+/alfacgiapi/perl.alfa 4 www.google.com
+/SHOP 1 http://creedeanimalclinic.com/SHOP
+/wp-content/plugins/seoplugins/mar.php 12 www.google.com
+/wso112233.php 1 www.google.com
+/2019 1 http://creedeanimalclinic.com/2019
+/new/uploads/3/4/7/3/34735303/cac-logo.png 3 -
+/assets/admin/filemanager/dialog.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/ 1 -
+/web/crm/start 2 -
+/feed/ 2 -
+/index.html/news/wp-includes/wlwmanifest.xml 69 -
+/new/ 1 -
+/shop 1 http://creedeanimalclinic.com/shop
+/chart/php-ofc-library/ofc_upload_image.php 2 -
+/media/system/js/core.js 3 http://continentalranchatcreede.com/media/system/js/core.js
+/NEW 1 http://creedeanimalclinic.com/NEW
+/env/.env 1 -
+/index.html/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 9 -
+/shell.php 1 -
+/wp-plugins/ALFA_DATA/alfacgiapi/ 1 -
+/backup/wp-admin/install.php 1 -
+/.git/config 6 -
+/2020 1 http://creedeanimalclinic.com/2020
+/wordpress 5 http://continentalranchatcreede.com/wordpress
+/wp-content/themes/seotheme/db.php 20 www.google.com
+/sites/all/modules/civicrm.local/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/wp-content/uploads/2021/12/fw.php 1 -
+/public_html_new 1 -
+/wp-content/wso112233.php 1 www.google.com
+/error_log.php 1 -
+/wp/wp-json/wp/v2/users 1 -
+/Test 1 http://creedeanimalclinic.com/Test
+/about.php 7 -
+/dev/.env 1 -
+/sitemap.php 2 -
+/All_images/1393728410.jpg 1 -
+/plugins/kcfinder/upload.php 1 -
+/assets/global/plugins/jQuery-File-Upload/server/php/ 1 -
+/CustomerAccounts.Model.CustomerAccounts 2 -
+/admin/editor/kcfinder/upload.php 1 -
+/login/ 2 -
+/admin/themes/filemanager/dialog.php 1 -
+/.vscode/sftp.json 3 -
+/admin/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/wp-22.php 1 -
+/core/.env 1 -
+/xleet-shell.php 1 www.google.com
+/admin/ 2 -
+/admin/kcfinder/upload.php 1 -
+/index.html/2020/wp-includes/wlwmanifest.xml 27 -
+/index.html/wp/wp-includes/wlwmanifest.xml 71 -
+/API/.env 1 -
+/wp-includes/css/buttons.css 7 http://continentalranchatcreede.com/wp-includes/css/buttons.css
+/_W.CustomerAccounts.RPC 2 -
+/contact-us/ 8 -
+/wp-admin/css/ 4 binance.com
+/new/uploads/3/4/7/3/34735303/cac-logo_orig.png 1 -
+/auctions/ 1 -
+/assets/kcfinder/upload.php 1 -
+/sitemap 1 -
+/admin/.env 1 -
+/blog/ 1 -
+/test/wp-admin/install.php 1 -
+/wp/ 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/wp-class.php 2 -
+/shells.php 1 -
+/wp-admin/alfa.php 1 -
+/assets/ckeditor/kcfinder/upload.php 1 -
+/wp-content/plugins/press/wp-class.php 1 -
+/test 1 http://creedeanimalclinic.com/test
+/Old 1 http://creedeanimalclinic.com/Old
+/Public/home/js/check.js 5 -
+/files/theme/content-bg-top.png 1 https://continentalranchatcreede.com/files/main_style.css
+/wp-commentin.php 23 -
+/ccx/index.php 1 www.google.com
+/wp-admin/ALFA_DATA/alfacgiapi/ 1 -
+/backup/ 1 -
+/2020/wp-includes/wlwmanifest.xml 2 -
+/admin 1 https://creedeanimalclinic.com/
+/wp-content/plugins/wpyii2/wpyii2.php 5 -
+/w_api/APIHandler.php 1 -
+/sitemap_index.xml 3 -
+/wp 5 http://continentalranchatcreede.com/wp
+/wp-content/wp-editor_taksonomy.php 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/.env.backup 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/assets/plugin/kcfinder/upload.php 1 -
+/wp-content/plugins/wpzip/wpzip.php 5 -
+/SITE 1 http://creedeanimalclinic.com/SITE
+/w_api/Handler.php 23 http://continentalranchatcreede.com/
+/wp-setups.php 2 -
+/index.html/mobile 1 -
+/index.html/website/wp-includes/wlwmanifest.xml 69 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 2 -
+/admin/content/sitetree/ 2 -
+/sito 1 http://creedeanimalclinic.com/sito
+/typo3conf/ext/hi_surveystats/res/php-ofc-library/ofc_upload_image.php 2 -
+/sftp-config.json 1 -
+/.well-known/traffic-advice 5 -
+/kcfinder/upload.php 1 -
+/.git/HEAD 1 http://www.continentalranchatcreede.com/.git/HEAD
+/files/main_style.css 1 https://continentalranchatcreede.com/index.html
+/2021/wp-includes/wlwmanifest.xml 2 -
+/ALFA_DATA/alfacgiapi/ 2 -
+/vendor/kcfinder/upload.php 1 -
+/new/uploads/CreedeAnimalClinic.png 5 -
+/uploads/3/4/7/3/34735303/CreedeAndimalClinic.png 2 -
+/wp-content/wso.php 1 -
+/2019/wp-includes/wlwmanifest.xml 2 -
+/wp-admin/fw.php 1 -
+/sitio 1 http://creedeanimalclinic.com/sitio
+/blog 1 http://creedeanimalclinic.com/blog
+/wsoyanzorng.php 1 www.google.com
+/wp-includes/fw.php 1 -
+/2021 1 http://creedeanimalclinic.com/2021
+/assets/js/fileupload/server/php/index.php 1 -
+/index.html/cms/wp-includes/wlwmanifest.xml 71 -
+/uploads/3/4/7/3/34735303/header_images/1393619178.jpg 1 https://continentalranchatcreede.com/index.html
+/wp-content/shell20211028.php 1 www.google.com
+/api/search 2 -
+/Wp 1 http://creedeanimalclinic.com/Wp
+/index.html/shop/wp-includes/wlwmanifest.xml 70 -
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/WP 1 http://creedeanimalclinic.com/WP
+/bac 1 http://creedeanimalclinic.com/bac
+/wp-includes 1 www.google.com
+/WordPress 1 http://creedeanimalclinic.com/WordPress
+/sqlbuddy/login.php 1 -
+/bak 1 http://creedeanimalclinic.com/bak
+/index.html/login 1 -
+/index.html/media/wp-includes/wlwmanifest.xml 43 -
+/web/wp-admin/install.php 1 -
+/privacy 2 -
+/index.html/web/wp-includes/wlwmanifest.xml 71 -
+/Backup 1 http://creedeanimalclinic.com/Backup
+/misc/ajax.js 1 -
+/WORDPRESS 1 http://creedeanimalclinic.com/WORDPRESS
+/www.weebly.com/uploads/reseller/assets/1001-favicon.ico 6 -
+/wp-content/plugins/wp-signup.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/index.html/wp2/wp-includes/wlwmanifest.xml 69 -
+/media/js/filemanager/dialog.php 1 -
+/old/wp-json/wp/v2/users 1 -
+/Blog 1 http://creedeanimalclinic.com/Blog
+/123.php 2 -
+/new/wp-admin/install.php 1 -
+/database/.env 1 -
+/wp-old 1 http://creedeanimalclinic.com/wp-old
+/index.html/2019/wp-includes/wlwmanifest.xml 69 -
+/wp-includes/wlwmanifest.xml 1 -
+/app/.env 1 -
+/components/com_jnews/includes/openflashchart/tmp-upload-images/255test.php 2 -
+/js/mage/cookies.js 2 -
+/filemanager/dialog.php 1 -
+/test/bedesk1.1/.env 1 -
+/telescope/requests 2 -
+/static/admin/javascript/hetong.js 5 -
+/suitecrm/index.php 2 -
+/New 1 http://creedeanimalclinic.com/New
+/index.html/wp-includes/id3/license.txt/feed/ 9 -
+/panel/kcfinder/upload.php 1 -
+/files/theme/banner-tall.jpg 3 https://continentalranchatcreede.com/files/main_style.css
+/wp-includes/wso.php 1 -
+/index.html/2018/wp-includes/wlwmanifest.xml 43 -
+/admin/editor/filemanager/dialog.php 1 -
+/test.php 1 -
+/new/uploads/3/4/7/3/34735303/clinic-photo.jpg 1 -
+/Wordpress 1 http://creedeanimalclinic.com/Wordpress
+/wp-story.php 4 -
+/AI/filemanager/dialog.php 1 -
+/index.html/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 9 -
+/view-source: 1 -
+/admin-panel/vendor/kcfinder/upload.php 1 -
+/wp-reset.php 2 -
+/wp-cron.php 1 -
+/wp-content/plugins/wp-user-avatar/changelog.txt 1 yahoo.com
+/new/uploads/3/4/7/3/34735303/CreedeAnimalClinic.png 1 -
+/temp/ 1 -
+/admin/assets/global/plugins/filemanager/dialog.php 1 -
+/index.html/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 9 -
+/sitemap.xml.gz 6 -
+/.env.save 1 -
+/painel/kcfinder/upload.php 1 -
+/asset/tinymce/filemanager/dialog.php 1 -
+/uploads/3/4/7/3/34735303/creedeandimalclinic.png 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/ckeditor/plugins/kcfinder/upload.php 1 -
+/www 1 http://creedeanimalclinic.com/www
+/wp-content/plugins/t_file_wp/t_file_wp.php 2 -
+/sitemap.txt 1 -
+/admin/controller/extension/extension/ 4 binance.com
+/wp-content/plugins/instabuilder2/cache/up.php 1 www.google.com
+/oldsite 1 http://creedeanimalclinic.com/oldsite
+/wordpress/wp-json/wp/v2/users 1 -
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/wp-content/fw.php 1 -
+/admin/index.php 2 -
+/.DS_Store 2 -
+/wp-content/plugins/dos2unix/dos2unix.php 4 -
+/index.html/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 9 -
+/old/ 1 -
+/wp-content/ 1 -
+/fw.php 1 -
+/e/data/js/ajax.js 1 -
+/adminer.php 3 http://continentalranchatcreede.com/adminer.php
+/web/wp-includes/wlwmanifest.xml 2 -
+/uploads/3/4/7/3/34735303/2612201.jpg 1 https://continentalranchatcreede.com/index.html
+/wp-content/wp-function.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/ckeditor/kcfinder/upload.php 1 -
+/wp-cc.php 19 -
+/index.html/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 9 -
+/bin/sh 1 -
+/OLD 1 http://creedeanimalclinic.com/OLD
+/wp-content/ALFA_DATA/alfacgiapi/ 2 -
+/js/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-admin/xleet-shell.php 1 www.google.com
+/home 4 http://continentalranchatcreede.com/home
+/cms/wp-admin/install.php 1 -
+/wp-includes/ID3/license.txt 2 -
+/public/.env 1 -
+/core/misc/drupal.js 2 -
+/misc/drupal.js 2 -
+/index.html/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 9 -
+/spread.php 1 -
+/TEST 1 http://creedeanimalclinic.com/TEST
+/humans.txt 7 http://creedeanimalclinic.com/humans.txt
+/oldsite/wp-admin/install.php 1 -
+/_W.CustomerAccounts.BackboneModelData 2 -
+/index.html/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 9 -
+/index.html/feed/ 3 -
+/wp-includes/wsoyanzorng.php 1 www.google.com
+/data/admin/allowurl.txt 1 -
+/new/wp-json/wp/v2/users 1 -
+/.env 30 -
+/index.html/sito/wp-includes/wlwmanifest.xml 69 -
+/info.php 2 -
+/js/kcfinder/upload.php 1 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/index.html/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 9 -
+/util/login.aspx 1 -
+/wp-content/plugins/wpputty/wpputty.php 5 -
+/assets/admin/js/kcfinder/upload.php 1 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/wp-plain.php 4 www.google.com
+/wp-content/plugins/sid/sidwso.php 1 www.google.com
+/2018 1 http://creedeanimalclinic.com/2018
+/Site 1 http://creedeanimalclinic.com/Site
+/admin/php-ofc-library/ofc_upload_image.php 2 -
+/yonetim/engine/ckeditor/kcfinder/upload.php 1 -
+/.env.local 1 -
+/All_images/1393619178.jpg 2 -
+/config.json 2 -
+/index.html/admin/ 1 -
+/demo 1 http://creedeanimalclinic.com/demo
+/faq/ 1 -
+/admin/ckeditor/plugins/filemanager/dialog.php 1 -
+/public/scripts/filemanager/dialog.php 1 -
+/wp-admin/setup-config.php 2 -
+/alfa.php 1 -
+/atom.xml 3 -
+/index.php 2 -
+/ws.php 1 -
+/ayzhlliw.php 1 www.google.com
+/TP/public/index.php 1 -
+/s/5343e2433313e26393e26363/_/ 1 -
+/adadaddadad 1 -
+/index.html/m/ 1 -
+/debug/default/view 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 693
+76.154.60.98 89 455 29490554 20230105174742
+71.34.133.114 78 335 33940565 20230109181138
+66.198.214.42 78 354 19263223 20230130093845
+66.198.214.169 57 336 20623018 20230129201229
+216.147.121.152 43 124 13262805 20230108212655
+199.217.32.2 39 188 8275793 20230127173139
+68.102.193.213 27 88 13541194 20230131143527
+216.147.121.52 24 65 3792640 20230119211412
+24.213.12.180 21 103 11227082 20230124140511
+169.241.65.48 18 82 9717486 20230120125353
+24.32.22.200 6 32 2935581 20230130001710
+174.198.139.227 1 1 14758 20230113172903
+217.182.192.90 1 1 0 20230110170211
+198.35.56.21 8 38 5714780 20230105023655
+35.90.213.189 1 1 23813 20230113123007
+34.133.230.49 1 1 21048 20230115081713
+35.236.71.167 1 1 20351 20230106193841
+104.223.189.16 1 1 23813 20230119115608
+98.21.149.210 8 53 3852127 20230121174240
+3.133.98.61 1 2 575 20230124200331
+149.56.160.150 1 11 219125 20230114015119
+52.42.244.98 1 1 20351 20230128143420
+67.22.61.185 1 11 988105 20230116024837
+107.175.74.173 5 5 94093 20230101214028
+24.9.173.202 8 35 267828 20230127113032
+213.24.130.99 6 6 40702 20230131032715
+69.10.40.142 1 1 0 20230109011632
+52.89.28.72 1 1 20351 20230112142433
+52.33.136.162 1 1 23813 20230110121352
+5.161.150.8 1 1 22727 20230129195227
+107.77.230.47 9 47 2088 20230121000701
+213.24.130.102 2 2 0 20230122092609
+67.175.254.120 14 86 11395719 20230128152055
+93.158.90.161 1 1 0 20230113161524
+198.20.67.200 6 41 801014 20230131140245
+142.91.118.162 5 5 87638 20230106113846
+23.129.64.215 1 1 0 20230129205255
+35.91.118.33 1 1 23813 20230121124310
+27.115.124.38 3 9 765111 20230131052042
+35.91.147.194 1 1 0 20230115123729
+173.252.83.6 1 1 0 20230117120957
+54.93.243.214 1 1 20403 20230105195801
+76.159.164.235 1 5 0 20230107201209
+166.137.139.26 1 1 14758 20230107132501
+167.99.69.78 1 1 0 20230115103613
+93.158.90.162 0 1 936 
+155.190.8.6 8 11 86410 20230117142525
+173.252.111.4 0 1 0 
+18.236.234.22 1 1 24491 20230104144147
+44.211.231.74 3 3 47771 20230102050337
+20.163.252.111 0 1 3611257 
+34.106.128.1 1 1 0 20230103225258
+87.236.176.65 1 1 0 20230108180359
+89.117.20.210 1 1 0 20230111154002
+34.220.250.187 1 1 20351 20230114080837
+73.182.5.83 1 14 325605 20230102132423
+104.232.199.180 1 1 0 20230115142302
+178.128.248.197 1 1 0 20230107110516
+20.62.145.15 2 7 21408 20230111225302
+98.97.87.62 1 1 24491 20230103133045
+66.102.7.197 0 1 42332 
+34.217.72.196 1 1 23813 20230121124310
+208.100.26.243 1 1 23813 20230104023241
+34.220.13.68 1 1 20351 20230116142600
+5.9.106.204 2 14 19698 20230127173732
+64.124.8.54 0 1 357100 
+67.2.244.91 7 7 65110 20230109145101
+23.19.125.170 1 1 0 20230118185914
+34.211.213.246 1 1 23813 20230111120447
+121.5.237.81 1 8 234288 20230123212946
+116.110.42.250 5 19 1132503 20230103041848
+64.124.8.55 0 2 389575 
+34.219.102.188 3 16 1158419 20230108044240
+180.163.220.5 0 2 0 
+97.121.187.149 12 79 4424327 20230127144445
+104.168.124.87 1 1 0 20230115142303
+172.121.209.40 1 1 0 20230115142256
+24.9.93.113 12 62 10500197 20230115195455
+91.223.133.179 6 6 87784 20230115174003
+73.121.134.2 7 8 262324 20230115194124
+166.137.115.32 2 9 127274 20230104165227
+174.138.8.182 1 1 0 20230129030642
+140.246.136.252 1 1 12220 20230129005502
+34.125.179.119 1 1 0 20230101170933
+47.251.13.32 1 1 14758 20230117075557
+5.165.49.47 2 2 23813 20230124005841
+108.233.49.9 3 16 696 20230124160525
+113.108.9.38 1 1 12220 20230113195522
+184.154.139.8 4 17 281094 20230117140426
+66.102.7.193 0 1 0 
+40.77.188.47 0 1 227 
+72.36.56.6 4 11 264500 20230113224645
+174.198.135.186 2 8 15106 20230118204643
+205.169.39.63 6 19 348 20230127130626
+64.68.234.225 4 37 7158781 20230120145218
+223.247.178.167 1 1 14758 20230116173547
+40.77.188.68 0 1 227 
+97.89.235.185 4 41 5324745 20230128152812
+20.121.209.96 0 1 1251068 
+34.216.147.201 1 1 20351 20230123141908
+173.252.83.4 1 1 0 20230121002839
+204.64.0.169 9 55 11081772 20230106125302
+107.77.199.131 1 4 63408 20230116134123
+75.111.59.214 3 14 711710 20230110142437
+5.182.199.122 1 3 260778 20230116024851
+34.136.226.33 1 1 21408 20230115081714
+47.88.78.6 1 1 14758 20230117021537
+199.244.88.225 1 1 0 20230126032549
+35.205.250.15 5 5 112663 20230121120427
+213.162.80.4 4 14 951933 20230103101438
+35.90.224.127 1 1 0 20230120142207
+162.253.68.195 1 1 23813 20230125124944
+144.217.135.192 5 6 114196 20230125120839
+74.51.210.58 7 28 1617970 20230111161338
+207.32.158.19 1 6 260843 20230116024824
+54.185.230.18 1 1 23813 20230101124332
+104.36.120.64 1 2 10848 20230106204329
+52.26.18.132 1 1 0 20230127141838
+184.168.102.190 1 1 23813 20230125040254
+23.82.80.181 5 5 109046 20230110125704
+100.21.3.152 1 1 23813 20230118133958
+20.65.12.13 1 1 0 20230104100217
+31.6.11.14 1 1 0 20230106083704
+69.181.208.207 10 69 11077193 20230109114413
+34.150.228.143 1 1 348 20230127163229
+40.77.189.53 0 1 12446 
+206.123.206.153 5 41 3717385 20230124110049
+35.245.188.175 6 6 40702 20230127103509
+107.165.233.8 1 1 0 20230112164428
+174.211.35.141 7 27 1053005 20230101174131
+87.236.176.196 1 1 20351 20230115064806
+66.57.14.118 2 8 277525 20230103191703
+52.165.174.37 1 1 0 20230106203441
+173.252.111.14 0 1 0 
+69.39.40.123 7 25 1642625 20230128152342
+73.243.76.105 6 28 598829 20230131182029
+68.69.184.202 1 1 23813 20230121125032
+212.102.33.248 6 6 132859 20230113230535
+35.163.132.129 3 16 24509 20230107191851
+73.153.159.12 1 2 575 20230102135627
+70.57.57.61 4 22 840791 20230128121653
+54.214.229.253 1 1 20351 20230118142822
+149.56.150.129 1 12 1073831 20230125120900
+173.252.95.4 2 2 0 20230123122143
+193.0.200.28 1 1 23813 20230130053543
+44.203.63.11 1 1 20351 20230124034600
+142.111.241.69 4 4 86319 20230112164431
+208.123.138.254 4 12 719609 20230114205922
+35.89.169.195 1 1 0 20230107141620
+129.222.185.74 1 3 59552 20230125114600
+34.213.40.6 1 1 23813 20230101123858
+185.181.60.39 2 2 44164 20230108011751
+35.89.104.112 1 1 0 20230108142938
+34.218.78.102 1 1 0 20230128144431
+65.186.213.21 4 31 1224569 20230112075549
+209.141.49.169 1 1 0 20230106175227
+73.166.230.139 3 4 86606 20230115234348
+67.45.112.126 3 16 610401 20230118013008
+68.98.234.204 4 10 15802 20230109225948
+134.209.70.98 1 1 0 20230127211314
+74.84.150.150 3 3 44164 20230128023216
+108.231.50.83 3 36 5059530 20230126203508
+20.228.155.222 0 1 1149556 
+8.8.231.171 2 5 1088621 20230109214506
+34.221.113.119 1 1 0 20230115064816
+35.205.236.220 3 3 23813 20230122015721
+173.252.83.24 0 2 119960 
+46.8.175.9 1 1 20351 20230119141906
+107.122.177.12 2 8 238546 20230130174653
+47.242.105.176 1 1 23813 20230117032716
+3.252.222.161 2 13 1036784 20230105160918
+104.232.199.12 2 2 45075 20230117170005
+206.189.84.191 1 1 24491 20230102001746
+66.85.21.4 13 86 5307795 20230127081248
+185.181.60.189 2 2 20351 20230126215712
+184.164.127.20 2 7 129436 20230103130055
+54.213.127.8 1 1 0 20230125142815
+64.124.8.29 0 3 742446 
+77.74.177.119 1 1 0 20230117225413
+174.56.86.114 3 36 6497564 20230101132334
+23.94.138.47 1 1 23813 20230124075139
+63.117.14.133 1 10 775794 20230110013956
+104.168.124.158 1 1 0 20230115142300
+18.116.13.242 3 4 12717 20230110025534
+104.143.88.117 1 1 0 20230107191838
+184.154.139.7 0 8 117847 
+209.141.51.222 1 1 0 20230103035057
+75.44.18.191 2 8 15106 20230104210000
+170.64.130.135 1 1 0 20230131042519
+83.136.182.49 7 48 4412679 20230119165712
+34.221.124.107 1 1 23813 20230127121035
+188.166.227.100 1 1 0 20230104231746
+20.114.232.56 1 1 23813 20230104100823
+64.124.8.52 0 3 69412 
+94.247.172.129 1 1 0 20230129002931
+66.102.7.251 1 1 0 20230101194013
+23.128.248.38 1 1 0 20230125205137
+5.188.62.21 2 2 23813 20230110072507
+73.187.24.125 9 53 6633062 20230123090200
+139.59.165.91 1 1 20351 20230110204613
+54.236.241.242 1 1 0 20230119213703
+209.126.77.67 1 1 0 20230114115013
+47.88.6.178 1 1 12220 20230130060802
+159.65.10.242 1 1 20351 20230113234839
+216.131.88.23 1 1 23813 20230111045950
+87.236.176.63 1 1 0 20230107152958
+166.137.118.17 1 1 14758 20230122144641
+98.184.9.58 0 3 943329 
+173.252.87.20 0 1 3034342 
+68.185.132.19 1 14 1134258 20230115110705
+8.44.159.141 4 41 4202761 20230122184418
+167.71.129.171 1 1 0 20230103101532
+152.39.201.120 3 13 985431 20230103083353
+104.222.162.2 1 1 0 20230107191839
+184.154.139.6 4 22 482226 20230115140315
+93.113.111.205 1 1 20351 20230126150001
+18.237.134.15 1 1 23813 20230115131859
+34.140.115.72 1 1 23813 20230117082838
+104.164.161.12 1 1 0 20230108044229
+67.233.138.198 0 1 267288 
+192.231.91.6 6 42 3741198 20230119102028
+5.149.248.2 1 1 23813 20230126153643
+20.65.11.179 1 1 23813 20230104100339
+66.146.234.211 0 3 652758 
+72.177.87.31 1 5 0 20230117204843
+199.244.88.231 1 1 0 20230111123103
+175.44.42.196 1 1 23813 20230129023224
+107.77.85.16 1 1 14758 20230128201758
+216.251.130.74 12 96 5285144 20230128034613
+206.189.150.125 3 3 24491 20230104110504
+52.12.200.204 1 1 0 20230128120904
+73.95.123.195 4 12 584468 20230124154602
+78.46.199.14 2 2 23813 20230123094901
+212.102.59.189 3 3 45852 20230109024558
+174.197.15.143 1 6 205416 20230105235057
+174.238.226.133 1 5 309715 20230125224850
+35.187.118.85 1 1 20351 20230119173249
+166.205.190.56 1 1 348 20230116134506
+35.165.69.22 1 1 20351 20230109141330
+54.186.130.18 1 1 0 20230121143924
+69.160.160.55 6 18 1167942 20230115114922
+35.92.61.182 1 1 0 20230116123431
+80.120.129.210 1 1 0 20230120221544
+35.245.82.188 1 1 0 20230112092925
+34.220.145.253 1 1 0 20230126223014
+161.123.248.80 2 10 940294 20230116215604
+207.154.236.98 1 1 0 20230103081117
+35.88.66.110 1 1 20351 20230117144648
+73.229.117.246 10 53 6766839 20230114232628
+35.165.127.52 1 1 0 20230115144248
+50.193.127.41 9 37 857520 20230130141225
+35.86.164.7 1 1 0 20230114145220
+68.201.11.97 7 48 4573820 20230104145231
+52.12.3.211 1 1 0 20230112142408
+142.132.169.34 1 1 20403 20230105210044
+146.148.12.228 3 3 23813 20230129044058
+172.56.88.203 6 6 39931 20230106144934
+159.65.242.189 1 1 0 20230125170134
+75.163.191.3 1 1 0 20230111183744
+35.86.164.11 1 1 23813 20230131122519
+199.249.230.120 1 1 23813 20230104021454
+93.158.90.142 0 1 936 
+69.171.251.15 0 1 3034342 
+98.102.40.250 2 16 1201494 20230119110804
+54.218.57.105 1 1 20351 20230122145345
+199.209.144.11 2 15 37534 20230104114836
+130.255.166.82 1 1 0 20230123071936
+147.182.204.7 1 1 0 20230129013809
+92.223.85.64 1 1 20403 20230105190407
+107.115.5.53 2 9 50845 20230115105821
+98.230.204.118 9 48 338469 20230109104433
+43.130.118.86 1 1 23813 20230122114527
+165.22.60.8 10 10 61053 20230114023901
+107.181.130.182 1 1 0 20230120133334
+45.59.163.17 1 1 12220 20230130011600
+123.149.77.174 0 1 936 
+34.219.1.157 1 1 23813 20230129123207
+15.235.143.172 1 1 0 20230122210804
+35.91.67.193 1 1 23813 20230108124338
+14.29.228.249 1 1 12220 20230114151105
+216.213.28.162 0 1 1004 
+206.189.148.254 1 1 0 20230102001804
+40.77.190.185 0 1 0 
+8.64.34.236 1 5 192231 20230120233406
+23.129.64.149 1 1 20351 20230131212852
+69.223.211.254 4 21 1392613 20230105172850
+52.43.58.73 1 1 23813 20230122123935
+64.124.8.31 0 1 376595 
+174.250.211.87 0 1 303740 
+35.162.216.16 1 1 23813 20230118122934
+51.75.169.50 2 2 47626 20230116104349
+163.123.172.173 9 59 10849896 20230102111554
+144.217.135.197 7 8 132859 20230114015055
+35.202.172.50 1 1 22601 20230115081715
+69.244.49.77 2 16 1401758 20230119103211
+162.19.93.190 1 1 0 20230122081810
+172.121.217.129 2 2 46540 20230107112929
+108.69.190.169 10 104 8555717 20230105110437
+173.252.95.10 2 5 67168 20230119122915
+34.122.122.87 1 1 23813 20230115081716
+182.54.239.167 1 1 0 20230110180152
+14.116.150.68 1 1 14758 20230110170945
+104.243.33.125 1 1 14758 20230118092936
+73.22.144.67 12 49 4786765 20230102215734
+172.105.112.127 1 1 0 20230122043856
+79.30.196.201 2 15 1158071 20230106120439
+18.236.102.144 1 1 0 20230111142100
+134.209.98.80 1 1 0 20230115165834
+111.207.155.211 2 2 20351 20230126121853
+176.9.47.58 1 1 0 20230105134509
+184.154.76.34 5 36 645748 20230124140146
+156.146.197.135 1 1 21262 20230124203347
+173.252.83.18 0 1 33130 
+121.5.231.252 1 1 14758 20230118133153
+184.154.139.5 9 28 602189 20230130140541
+172.56.184.20 2 5 78514 20230109140757
+34.79.174.58 3 3 44164 20230129050057
+172.105.121.204 1 1 0 20230117014552
+73.99.235.80 12 55 5774450 20230102190222
+68.207.4.40 11 42 4837290 20230102160410
+209.126.86.35 1 1 0 20230126175108
+75.163.181.66 6 42 3741198 20230111224926
+72.174.173.94 4 22 672170 20230111203047
+173.252.95.9 1 1 0 20230108224236
+107.77.197.234 12 70 6607244 20230119194431
+40.69.160.158 1 1 23813 20230106215613
+65.21.206.43 1 1 23813 20230124085355
+209.126.77.66 1 1 0 20230102012244
+173.252.95.14 0 1 227 
+143.198.90.121 1 1 0 20230121043706
+166.0.238.200 1 1 23813 20230122123749
+107.77.201.145 4 26 3279103 20230104122933
+121.36.105.161 1 1 0 20230131040048
+45.8.203.161 6 6 87784 20230120133352
+107.223.179.107 1 7 170880 20230130234158
+40.77.188.81 0 1 12369 
+54.190.24.188 1 1 0 20230118142105
+116.179.33.206 0 1 33130 
+205.185.121.69 1 1 0 20230105053712
+109.235.62.177 1 1 0 20230126144653
+69.118.93.58 2 15 987191 20230115160003
+1.192.195.5 1 1 23813 20230129191149
+34.215.129.137 1 1 23813 20230110121410
+74.113.246.53 3 15 1095186 20230130192800
+64.124.8.53 0 1 371252 
+216.147.121.121 3 38 4334024 20230111102023
+42.236.10.125 1 1 0 20230110053150
+174.235.212.40 6 40 6702201 20230108115545
+34.78.171.236 1 1 23813 20230124104303
+35.91.125.18 1 1 0 20230104124224
+74.115.50.6 16 19 259827 20230106085225
+54.244.103.166 1 1 20351 20230129140348
+199.244.88.224 1 1 23813 20230110075138
+193.169.253.80 1 1 23813 20230112020313
+3.145.197.255 3 4 36530 20230130062517
+166.137.163.20 7 39 6263917 20230125024018
+172.121.217.199 1 1 0 20230115142259
+54.200.120.209 1 1 23813 20230120121143
+50.238.136.163 0 1 357100 
+152.44.98.168 1 3 158775 20230124143257
+139.59.96.68 1 1 0 20230110052345
+125.41.243.69 0 1 936 
+174.202.164.196 9 42 2881972 20230101093437
+162.142.125.9 1 1 0 20230102083100
+107.115.203.2 8 42 3305327 20230103162954
+172.98.246.13 1 1 0 20230106132022
+216.147.126.130 3 9 14758 20230125103441
+34.172.80.135 1 1 22727 20230115081715
+166.137.126.33 1 1 14758 20230116134121
+20.106.101.180 2 2 23813 20230116051048
+54.186.235.66 1 1 0 20230105123933
+3.23.82.107 1 5 137226 20230118175709
+52.38.207.64 1 1 0 20230124142434
+66.198.215.190 2 11 1088621 20230110225017
+75.111.203.50 1 12 1025568 20230104153544
+107.77.218.19 5 6 519562 20230126203607
+172.58.22.177 2 8 238546 20230105231005
+174.234.3.249 1 2 57090 20230129215414
+34.232.62.110 2 2 23958 20230102053221
+139.162.89.4 1 1 0 20230110113332
+47.88.5.56 1 1 12220 20230130060807
+1.192.195.8 1 1 0 20230109060245
+109.239.58.107 1 1 23813 20230114210833
+35.91.39.176 1 1 0 20230119142825
+173.252.83.17 1 1 0 20230106040045
+121.175.11.125 1 1 23813 20230125081236
+8.22.15.190 10 67 10827156 20230117130725
+144.168.220.4 2 15 384610 20230125141504
+173.207.117.137 1 1 12216 20230122224612
+216.245.72.183 2 14 1095186 20230115000334
+199.244.88.232 2 2 24491 20230103062040
+34.222.225.225 1 1 23813 20230117122833
+174.246.198.22 2 9 128713 20230113101125
+68.84.192.90 1 14 1063418 20230105140449
+64.124.8.24 0 1 345511 
+49.12.5.226 1 1 14758 20230126075933
+52.36.97.102 1 1 0 20230115123731
+172.98.246.242 8 19 286777 20230106230618
+157.41.253.133 1 1 0 20230124041504
+172.104.58.206 1 1 23813 20230115013207
+174.231.85.209 2 9 78514 20230124201711
+3.80.245.77 1 1 0 20230113212031
+34.223.249.96 1 1 0 20230103143333
+107.115.243.57 8 21 980098 20230109214145
+216.49.253.150 2 12 1322909 20230118204528
+213.24.130.107 10 10 171088 20230123152722
+116.179.33.19 0 1 0 
+170.64.157.65 1 1 0 20230104203416
+185.220.102.245 1 1 23813 20230126033300
+34.77.246.194 1 1 0 20230112151653
+64.140.128.93 1 5 170880 20230116024747
+52.12.185.108 1 1 0 20230126121119
+34.216.173.90 1 1 23813 20230125121351
+199.249.230.101 1 1 23813 20230119155915
+54.189.182.155 1 1 0 20230115142720
+185.150.191.61 2 2 26978 20230122072127
+173.245.202.120 1 1 21408 20230110013450
+173.252.83.2 0 1 156861 
+128.199.77.27 1 1 0 20230107084528
+193.162.143.246 1 1 0 20230130214135
+65.21.151.3 1 1 12220 20230126051333
+66.91.13.78 16 80 4855622 20230121015633
+67.205.56.255 1 1 0 20230112000830
+34.172.144.130 5 11 280448 20230130112621
+15.235.202.85 2 2 0 20230109061141
+72.55.193.66 2 10 740221 20230123133806
+24.8.24.128 2 15 183597 20230122120902
+184.154.139.9 1 14 309645 20230129140214
+52.114.128.147 0 1 33130 
+216.160.177.220 13 67 4937616 20230104142452
+23.152.225.8 1 1 23813 20230119232526
+54.184.59.242 1 1 23813 20230109122750
+99.42.90.163 4 23 814138 20230104220908
+66.90.249.225 1 6 14758 20230117195311
+209.141.36.231 2 2 348 20230106175234
+54.187.174.8 1 1 0 20230130143333
+54.186.247.144 1 1 23813 20230127121214
+47.251.14.232 1 1 14758 20230117045424
+61.147.15.65 5 5 88955 20230122153000
+162.142.125.210 1 1 20351 20230111083303
+54.189.70.222 1 1 23813 20230106121129
+40.77.190.8 0 1 0 
+107.172.95.176 0 1 69836 
+93.158.90.156 1 1 14758 20230124011006
+209.205.168.25 4 17 1131928 20230102165728
+35.222.48.41 1 1 21262 20230115081716
+40.77.188.20 0 1 12369 
+54.212.82.69 1 1 23813 20230130122754
+45.72.48.130 2 2 23813 20230113035553
+35.86.90.44 1 1 0 20230113142031
+208.100.26.236 3 3 0 20230129162730
+104.232.199.6 1 1 23813 20230115142317
+31.13.127.17 0 1 3034342 
+54.185.0.213 1 1 0 20230107141746
+64.124.8.48 0 1 0 
+173.252.79.16 0 1 33130 
+23.252.211.161 7 48 805515 20230107141532
+172.241.240.180 5 5 109046 20230122151634
+66.220.149.3 0 1 33130 
+69.171.249.10 1 1 0 20230108201834
+84.243.196.168 1 1 0 20230116084959
+99.46.195.40 5 13 241052 20230104120015
+216.245.72.7 2 10 786358 20230121092911
+24.8.129.82 2 8 67666 20230106213601
+173.252.111.18 0 1 0 
+172.58.78.238 1 7 122744 20230106115304
+13.58.35.177 3 5 20926 20230124192513
+45.13.234.183 1 1 23813 20230123113829
+64.246.178.34 1 1 0 20230115215032
+173.252.127.13 0 1 0 
+107.115.171.68 8 22 4108422 20230116135522
+172.121.218.38 1 1 0 20230117170003
+51.75.95.101 1 1 20351 20230120003947
+167.172.143.170 2 2 0 20230116035701
+64.246.161.42 1 1 20351 20230116010204
+173.252.95.8 1 1 0 20230119122952
+67.63.94.166 1 15 55049 20230111125757
+173.252.83.16 1 1 0 20230120064550
+97.122.239.156 10 36 4149753 20230105090338
+173.252.83.10 1 2 33130 20230113033819
+34.122.197.7 6 20 1160808 20230115081753
+27.115.124.6 1 3 38696 20230123192022
+167.224.248.26 15 69 5872677 20230116195437
+185.177.126.128 2 2 23813 20230109164216
+40.77.139.2 0 1 12369 
+174.211.109.129 6 8 730092 20230108115420
+23.82.80.156 5 5 65397 20230118185956
+40.77.189.40 0 1 12446 
+52.1.150.219 1 1 0 20230130060001
+34.218.246.231 1 1 23813 20230111120446
+66.45.134.93 5 9 235238 20230116124051
+183.136.225.46 1 1 0 20230114001625
+54.71.101.173 1 1 0 20230102123324
+35.90.247.180 1 1 23813 20230105123930
+27.115.124.45 1 1 14758 20230115174208
+44.227.127.2 4 27 2124894 20230129223721
+35.185.241.102 9 9 105895 20230131174328
+54.149.130.238 1 1 20351 20230131141358
+2.57.122.25 2 2 0 20230120044518
+34.79.230.17 1 1 0 20230115000035
+68.191.224.181 2 15 331102 20230118144140
+8.48.89.36 9 39 3212897 20230109142200
+180.163.220.67 3 8 15333 20230125145051
+206.222.171.33 7 31 1891117 20230124112716
+143.244.37.206 1 1 21408 20230115050627
+213.24.130.100 4 4 40702 20230119092718
+51.254.199.11 6 6 44842 20230125231555
+154.92.121.34 1 1 20351 20230121121018
+174.197.65.78 2 5 137850 20230103200956
+208.100.26.246 6 6 124768 20230124004123
+194.71.217.74 1 1 0 20230115064046
+199.66.168.10 2 8 238546 20230128214643
+45.133.220.199 2 3 12717 20230127085339
+34.219.56.163 1 1 20351 20230106143113
+104.222.46.202 1 1 0 20230115142255
+174.205.38.36 2 8 238546 20230128214738
+90.90.217.203 2 9 93172 20230108061406
+173.252.95.120 1 6 869549 20230119122914
+159.223.56.221 1 1 0 20230117231717
+64.233.172.117 1 1 0 20230103142422
+35.189.215.79 3 3 20351 20230122021715
+43.130.150.184 1 1 0 20230123204252
+5.161.180.176 1 1 0 20230116172410
+20.78.39.118 1 1 0 20230121213653
+52.25.99.180 1 1 0 20230110144613
+107.77.196.68 1 8 181380 20230107132503
+68.187.45.234 1 13 575 20230110102551
+172.105.117.127 2 2 20351 20230112020535
+98.230.194.108 4 21 1392613 20230109102817
+166.198.34.83 1 8 249046 20230130144846
+31.13.103.5 1 1 0 20230117211827
+40.77.189.120 0 1 12369 
+163.172.70.215 1 1 0 20230119062215
+43.130.123.58 1 1 23813 20230125032120
+40.76.60.184 1 1 0 20230110224841
+136.49.206.62 2 15 1121889 20230104155548
+172.56.88.17 3 3 14013 20230106145214
+35.83.255.74 1 1 0 20230124024226
+70.121.18.72 1 8 95583 20230109222440
+87.236.176.77 1 1 0 20230112221220
+34.221.19.135 1 1 0 20230103122004
+192.71.225.127 1 1 12220 20230112162339
+209.189.227.138 4 22 1395797 20230117130049
+118.31.164.20 1 1 0 20230120144038
+142.54.224.196 1 1 0 20230117210055
+178.62.74.6 5 5 113458 20230120131605
+35.189.197.20 11 15 304316 20230108193523
+159.203.128.213 1 1 0 20230125225729
+66.25.40.29 8 57 5812598 20230112222510
+34.77.72.105 1 1 23813 20230126193846
+34.76.146.130 1 1 23813 20230131133204
+34.140.107.62 1 1 0 20230131135217
+109.98.208.42 1 1 0 20230111180629
+213.24.130.101 2 2 0 20230112152715
+20.241.233.77 7 7 67802 20230129110401
+64.124.8.49 0 4 414700 
+72.18.158.238 2 2 23813 20230131140840
+34.219.85.233 1 1 0 20230118123025
+45.53.94.95 2 14 1172390 20230130105509
+104.237.245.207 1 1 0 20230115142301
+120.244.123.168 0 1 936 
+216.245.77.133 7 47 3977857 20230109142309
+107.115.239.21 2 10 789049 20230111223550
+74.125.212.71 0 1 0 
+54.70.218.232 1 1 23813 20230113123008
+66.198.215.74 2 9 63408 20230116202906
+50.116.21.59 1 1 0 20230111115144
+75.146.189.57 11 57 5559593 20230125123106
+174.198.128.33 4 18 342573 20230103212321
+82.180.138.231 1 1 0 20230117144915
+216.245.72.216 6 30 1585511 20230126134950
+35.91.35.182 1 1 23813 20230123123600
+138.128.111.235 1 1 0 20230101214021
+35.91.118.166 1 14 1101128 20230115142309
+42.83.147.34 4 4 47626 20230130230421
+18.237.158.203 1 1 0 20230116141835
+172.226.81.47 2 15 938946 20230114152102
+54.203.6.241 1 1 20351 20230124143037
+172.58.221.8 2 9 348 20230108163704
+173.252.83.13 2 2 0 20230128182421
+64.137.92.44 6 6 87998 20230118224620
+40.77.189.178 0 1 0 
+184.164.126.239 2 13 1025568 20230101115706
+52.12.219.148 0 1 37014 
+193.239.84.62 1 1 23813 20230110013443
+54.191.60.179 1 1 0 20230107122744
+34.78.36.141 1 1 20351 20230126195855
+5.182.199.48 1 13 234194 20230116024824
+216.147.125.152 12 71 6300244 20230110163738
+162.203.41.0 0 7 0 
+75.243.234.89 10 64 9271473 20230106173822
+184.170.241.77 1 1 24491 20230104131708
+67.1.199.251 1 1 14758 20230114165827
+172.58.109.127 0 1 0 
+34.79.246.102 1 1 0 20230107214827
+104.165.105.97 2 2 21262 20230107112931
+8.48.88.58 3 16 1075410 20230125172455
+192.42.116.209 1 1 0 20230106193513
+166.196.65.49 0 2 0 
+40.77.202.98 0 1 12446 
+27.115.124.109 2 2 14758 20230117180804
+172.241.240.127 1 1 0 20230122151631
+128.90.158.60 1 1 20351 20230116150825
+205.185.122.184 0 1 227 
+73.229.31.54 5 43 3767226 20230102162334
+212.102.33.243 5 5 93935 20230106023446
+135.181.78.101 1 1 24491 20230105024858
+20.210.104.220 1 1 0 20230127141600
+93.158.90.163 1 1 23813 20230102202845
+205.185.116.89 1 1 24491 20230104180124
+15.235.12.96 4 4 20351 20230130202906
+23.250.17.132 0 1 120703 
+64.250.14.58 9 51 8436312 20230126203555
+34.125.232.252 1 1 0 20230101132629
+3.82.125.45 1 1 23813 20230102021635
+198.240.121.186 2 19 1410327 20230116215556
+172.241.142.83 1 1 0 20230106113832
+116.179.33.12 0 1 32175 
+52.186.151.113 3 3 47626 20230108175616
+24.155.0.130 3 12 786585 20230111202411
+172.126.219.139 8 48 7642243 20230124235238
+216.147.126.1 8 13 279061 20230118204822
+207.5.72.218 1 2 57090 20230125122606
+216.245.77.11 5 10 161802 20230130104636
+174.197.73.105 3 7 570406 20230118172304
+166.137.19.67 1 7 185638 20230116112638
+172.121.209.242 6 6 23813 20230128102338
+173.252.87.3 0 1 3034342 
+64.124.8.25 0 2 408770 
+104.219.149.10 2 15 961826 20230103163725
+174.238.233.112 11 38 5551744 20230125011733
+51.81.167.146 2 2 12220 20230129183708
+208.100.26.248 2 2 38571 20230131222804
+174.197.66.208 4 27 1830305 20230104033833
+64.188.178.185 11 96 5736590 20230122225234
+66.198.215.77 2 10 786358 20230115170728
+152.39.250.135 0 2 63856 
+218.234.118.102 1 1 0 20230124151111
+54.186.172.25 1 1 0 20230129142310
+34.80.48.123 1 1 0 20230123231235
+73.176.155.218 7 26 1630274 20230112161853
+69.171.251.18 1 1 0 20230118204649
+104.37.27.34 6 6 132859 20230128102338
+64.137.160.82 4 21 1332946 20230124130940
+209.141.35.128 1 1 0 20230108151406
+179.43.169.181 2 2 20351 20230129175752
+86.111.231.83 1 1 0 20230115173952
+136.37.98.75 2 16 1211852 20230121204756
+67.176.125.155 5 22 986883 20230121232124
+75.222.184.191 2 15 348 20230125190108
+180.163.220.4 0 1 0 
+91.227.68.182 1 1 0 20230130214200
+171.8.172.168 0 1 0 
+34.78.102.4 2 2 23813 20230130050429
+209.112.229.167 4 37 5153865 20230106211019
+27.115.124.70 1 1 14758 20230110053127
+75.166.2.131 2 8 238546 20230118010612
+173.252.95.22 0 4 158469 
+72.175.214.162 6 31 4776909 20230107152703
+108.5.236.22 9 34 729359 20230103164052
+176.74.192.85 2 2 31673 20230131114211
+34.210.248.224 1 1 23813 20230112122800
+139.162.4.212 1 1 0 20230116025440
+170.187.224.219 1 1 0 20230105171837
+31.13.127.15 1 1 0 20230105235818
+35.88.246.182 1 1 0 20230120120947
+173.252.87.23 0 1 3034342 
+172.56.88.255 1 1 348 20230106164202
+98.60.158.225 12 69 4606081 20230131113252
+96.8.169.78 8 49 5522786 20230102214716
+213.152.161.133 1 1 0 20230111214241
+174.70.147.19 2 14 175679 20230127202420
+27.115.124.101 1 2 57090 20230131052032
+199.244.88.221 1 1 20351 20230127070001
+35.93.160.190 1 1 0 20230103121927
+188.165.87.110 2 2 23813 20230130033357
+93.158.90.147 0 1 936 
+104.224.66.140 1 1 0 20230108044229
+174.51.132.100 0 9 0 
+83.136.182.47 2 14 1163351 20230113083638
+69.63.184.117 1 2 32175 20230113224612
+98.53.172.125 11 61 9123320 20230109234804
+162.221.114.48 5 12 229109 20230126211629
+175.44.42.250 1 1 0 20230121134844
+166.196.61.130 9 62 4855385 20230104035845
+144.126.226.55 1 1 20351 20230121030040
+52.41.143.235 1 1 20351 20230121144633
+69.232.49.89 2 9 78514 20230104010606
+34.221.200.6 1 1 0 20230123142135
+173.252.107.2 1 1 0 20230102071542
+34.209.194.219 1 1 23813 20230129123207
+69.171.249.20 0 1 3034342 
+52.124.19.25 1 6 98052 20230124143254
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230101 67 319 28960763 19
+20230102 80 344 31123632 27
+20230103 135 611 45486777 32
+20230104 95 417 25214938 37
+20230105 130 519 44317578 28
+20230106 106 430 35736014 33
+20230107 56 225 18965524 23
+20230108 93 277 28579235 23
+20230109 94 405 34701897 25
+20230110 65 225 13375055 36
+20230111 49 233 16754176 28
+20230112 65 303 23619413 27
+20230113 41 91 2489631 23
+20230114 35 124 10728877 16
+20230115 95 300 25048990 47
+20230116 76 336 23125413 42
+20230117 51 145 12686378 29
+20230118 64 227 16137652 27
+20230119 59 226 15944666 25
+20230120 46 154 21095615 17
+20230121 74 334 20504078 25
+20230122 33 97 6005187 22
+20230123 31 98 4483320 20
+20230124 58 231 16668211 31
+20230125 86 382 31678234 34
+20230126 39 131 15112169 23
+20230127 75 335 17524000 26
+20230128 40 146 11379106 20
+20230129 36 108 5487391 23
+20230130 63 223 9366226 27
+20230131 49 138 14475537 18
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 21
+0s-30s 698
+30s-2mn 52
+15mn-30mn 15
+2mn-5mn 30
+30mn-1h 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 773 8087486 706 513
+/ajax/api/JsonRPC/CustomerAccounts/ 658 219443 50 204
+/w_api/Handler.php 151 0 13 53
+/cabins.html 105 1470206 18 10
+/rates-and-reservations.html 102 1539175 15 8
+/photos-and-directions.html 62 1027130 5 2
+/area-attractions.html 49 802711 6 8
+/story-of-the-ranch.html 49 895163 10 12
+/meet-the-team.html 41 821484 1 13
+/our-services.html 33 657731 3 0
+/photos.html 19 503624 1 5
+/find-us.html 27 536786 0 1
+/INDEX.HTML 1 28531 1 0
+/w_api/APIHandler.php 16 0 4 4
+END_SIDER

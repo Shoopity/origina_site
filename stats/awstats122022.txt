@@ -1,0 +1,1600 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 202212 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2553                
+POS_VISITOR 30104               
+POS_DAY 56507               
+POS_DOMAIN 3485                
+POS_LOGIN 3719                
+POS_ROBOT 3925                
+POS_WORMS 4697                
+POS_EMAILSENDER 4828                
+POS_EMAILRECEIVER 4971                
+POS_SESSION 57413               
+POS_SIDER 57623               
+POS_FILETYPES 5106                
+POS_OS 5354                
+POS_BROWSER 5537                
+POS_SCREENSIZE 6157                
+POS_UNKNOWNREFERER 6231                
+POS_UNKNOWNREFERERBROWSER 7753                
+POS_ORIGIN 8718                
+POS_SEREFERRALS 8865                
+POS_PAGEREFS 9033                
+POS_SEARCHWORDS 10702               
+POS_KEYWORDS 10854               
+POS_MISC 2217                
+POS_ERRORS 10913               
+POS_CLUSTER 3575                
+POS_SIDER_404 11070               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230101001631 14673 3608125 92921091298
+FirstTime 20221201001259
+LastTime 20221231225053
+LastUpdate 20230101022008 14673 14338 334 0 0
+TotalVisits 814                 
+TotalUnique 634                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 719                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 30 62 5125817 144 193 1197369
+1 37 118 8604687 251 405 5742723
+2 53 118 5746179 166 279 546102
+3 59 111 4173192 182 278 395061
+4 20 24 3669356 177 274 11483375
+5 21 31 766768 156 235 734646
+6 26 66 6328891 484 509 869236
+7 20 54 6546858 157 229 366183
+8 39 108 6498596 273 354 4659276
+9 106 416 26125142 232 421 572493
+10 66 291 21112261 129 285 452557
+11 67 350 25878219 502 704 8276859
+12 180 549 33832761 361 557 2949609
+13 61 242 9156867 128 238 406881
+14 164 510 42464243 671 985 5780901
+15 127 493 37686699 249 406 491590
+16 120 460 37741745 165 315 1084358
+17 72 260 28585461 230 539 1008280
+18 56 179 12781528 216 369 622269
+19 90 315 24750917 227 353 1310432
+20 91 256 8554106 293 511 996318
+21 40 94 6389554 275 400 1102472
+22 54 222 25964717 232 464 2415219
+23 53 132 4387429 173 279 1112866
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1652 5461 392871993
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+continentalranchatcreede 1 49 18138 20221226131447
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+bot[+:,\.\;\/\\-] 661 30510564 20221231232114 176
+googlebot 527 11114577 20221231214525 185
+spider 420 5776547 20221231140253 0
+infobot 122 1561353 20221228065144 16
+yandex 76 805037 20221231150917 35
+crawl 67 1921217 20221231054146 3
+cfnetwork 57 678709 20221229115335 0
+unknown 44 747 20221231124709 44
+robot 31 278390 20221231112323 17
+java 28 0 20221231114821 0
+no_user_agent 10 71439 20221231143510 0
+mail\.ru 7 47709 20221228183955 3
+slurp 1 23813 20221207192446 0
+custo 6 72795 20221231104442 0
+python 14 24657 20221230222649 11
+bbot 7 109046 20221222232807 1
+baiduspider 11 77142 20221213141733 0
+netcraft 3 72795 20221225221351 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 302 5832107 0 0
+png 983 27534187 0 0
+pl 3 97388 0 0
+txt 2 0 0 0
+php 76 4743 0 0
+html 1571 13305822 0 0
+xml 10 6354 0 0
+js 236 206556 0 0
+jpg 2250 344128428 0 0
+jpeg 23 1753130 0 0
+gif 5 3278 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 11
+winxp 20
+unix 16
+symbian 1
+winnt 2382
+winvista 21
+linux 900
+bsdfreebsd 1
+macosx 1739
+win2003 1
+bsdopenbsd 1
+Unknown 151
+win2008 217
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 43
+firefox5.0 1
+chrome 3272
+firefox26.0 1
+firefox102.0 103
+firefox4.0 4
+curl 1
+lynx 1
+firefox104.0 2
+firefox24.0 1
+firefox105.0 2
+firefox107.0 10
+firefox85.0 2
+firefox73.0 1
+firefox43.0 6
+msie7.0 1
+firefox59.0 4
+firefox108.0 106
+msie9.0 168
+Unknown 93
+firefox50.0 8
+firefox84.0 32
+firefox40.0 1
+firefox17.0 14
+libwww 1
+firefox55.0 1
+opera 1
+firefox45.0 1
+firefox47.0 2
+firefox68.0 6
+firefox33.0 1
+konqueror 6
+mozilla 224
+firefox25.0 1
+netscape5.0 2
+firefox92.0 45
+firefox60.0 6
+msie10.0 3
+firefox19.0 1
+firefox10.0.2 1
+firefox3.5 1
+firefox36.0 3
+firefox35.0 2
+safari 1319
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 27
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_33) 20221231135248
+Zend_Http_Client 20221225145037
+test 20221227180438
+TelegramBot_(like_TwitterBot) 20221212202334
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20221201034701
+Nimo_Software_HTTP_Retriever_1.0 20221219124326
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20221229083143
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_30) 20221210051933
+Mozilla/5.0_Firefox/26.0 20221210105555
+Mozilla/5.0_Firefox/33.0 20221230195925
+ZaldamoSearchBot(www.zaldamo.com/search.html) 20221222221656
+Mozilla/5.0_(compatible;_Dataprovider.com) 20221211230307
+got_(https://github.com/sindresorhus/got) 20221203190050
+libwww-perl/6.67 20221226010658
+Mozilla/5.0_Firefox/35.0 20221228122043
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20221218051707
+Mozilla/5.0_(Mobile;_N139DL;_rv:84.0)_Gecko/84.0_Firefox/84.0_KAIOS/3.1 20221201145147
+ALittle_Client 20221225054519
+curl/7.74.0 20221220210637
+Mozilla/5.0_(compatible;_ips-agent) 20221226131340
+cortex/1.0 20221229071629
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_31) 20221225214854
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_29) 20221231215348
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20221231115826
+Go-http-client/1.1 20221223074915
+imgproxy/2.16.7 20221214074338
+Google 20221209114920
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 17
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_33) 20221231135248
+Zend_Http_Client 20221225145037
+test 20221227180438
+TelegramBot_(like_TwitterBot) 20221212202334
+Nimo_Software_HTTP_Retriever_1.0 20221219124326
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_30) 20221210051933
+Dalvik/2.1.0_(Linux;_U;_Android_13;_SM-S901U_Build/TP1A.220624.014) 20221222204221
+ZaldamoSearchBot(www.zaldamo.com/search.html) 20221222221656
+got_(https://github.com/sindresorhus/got) 20221203190050
+ALittle_Client 20221225054519
+cortex/1.0 20221229071629
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_29) 20221231215348
+DuckDuckGo/5_(com.duckduckgo.mobile.android;_Android_API_31) 20221225214854
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20221231115826
+Go-http-client/1.1 20221223074915
+imgproxy/2.16.7 20221214074338
+Google 20221209114920
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 538 644
+From1 7 9
+From2 81 245
+From3 445 1562
+From4 581 3001
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 77 241
+yahoo 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 36
+https://creedeanimalclinic.com/index.html 92 271
+https://www.creedeanimalclinic.com/index.html 72 189
+https://creedeanimalclinic.com 55 55
+https://creedeanimalclinic.com/our-services.html 24 49
+https://www.creedeanimalclinic.com/meet-the-team.html 23 108
+https://www.creedeanimalclinic.com/our-services.html 20 50
+https://creedeanimalclinic.com/meet-the-team.html 20 139
+https://creedeanimalclinic.com/find-us.html 18 40
+https://www.creedeanimalclinic.com/photos.html 17 192
+https://creedeanimalclinic.com/photos.html 14 161
+http://www.wordpress.creedeanimalclinic.com 1 1
+https://continentalranchatcreede.com:443 1 1
+https://meteocast.net 2 2
+https://www.startlogic.com 1 1
+https://creedeanimalclinic.com. 13 13
+https://www.creedeanimalclinic.com/find-us.html 4 9
+https://lm.facebook.com 6 6
+http://b2b.creedeanimalclinic.com 1 1
+https://creedeanimalclinic.com/files/mobile/main_style.css 0 17
+http://cato.brightcloud.com 1 1
+https://www.creedeanimalclinic.com/files/main_style.css 0 16
+http://shop.creedeanimalclinic.com 1 1
+https://meteotrend.com 4 4
+https://l.facebook.com 1 1
+https://www.creedeanimalclinic.com 1 1
+http://wp.creedeanimalclinic.com 1 1
+http://creedeanimalclinic.com 3 3
+https://www.bing.com 7 7
+http://baidu.com 4 4
+http://old.creedeanimalclinic.com 1 1
+http://fbkwriter.com/about-me/ 6 6
+https://www.creedeanimalclinic.com/files/mobile/main_style.css 0 12
+http://m.facebook.com 12 12
+https://duckduckgo.com 5 5
+https://creedeanimalclinic.com/files/main_style.css 0 168
+https://l.facebook.com 14 14
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 3 651
+302 2871 689267
+206 18 411006
+407 9 3735
+404 3398 29970
+301 1191 295909
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 439
+/blog/wp-includes/wlwmanifest.xml 4 -
+/auctioneers/internationalauctions/ 1 -
+/.git/credentials 1 -
+/priv8.php 1 http://continentalranchatcreede.com//priv8.php
+/api/.env 2 -
+/wordpress/ 4 -
+/wp-content/upload.php 1 http://continentalranchatcreede.com//wp-content/upload.php
+/xx.php 1 http://continentalranchatcreede.com/xx.php
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/admin.php 17 -
+/asset/kcfinder/upload.php 1 -
+/abruzi.php4 1 www.google.com
+/wp-admin/install.php 1 -
+/site/wp-includes/wlwmanifest.xml 4 -
+/wp-content/king.php 1 www.google.com
+/uploads/3/4/7/3/34735303/header_images/1393619178.jpg+ 1 -
+/assets/global/plugins/dropzone/dropzone-amd-module.min.js 1 -
+/wp-content/themes/seotheme/mar.php 1 http://creedeanimalclinic.com//wp-content/themes/seotheme/mar.php
+/ccbhmyie.php 1 www.google.com
+/local.php 6 -
+/wp-content/plugins/masterx/wpx.php 1 http://continentalranchatcreede.com//wp-content/plugins//masterx/wpx.php
+/bala.php 6 -
+/radio.php 1 http://continentalranchatcreede.com//radio.php
+/sites/default/files/ 3 binance.com
+/4price.php 1 http://continentalranchatcreede.com//4price.php
+/bc 7 http://continentalranchatcreede.com/bc
+/test/wp-includes/wlwmanifest.xml 4 -
+/xmlrqc.php 1 http://continentalranchatcreede.com//xmlrqc.php
+/elfinder/elfinder.html 2 -
+/index.html/wordpress/wp-includes/wlwmanifest.xml 85 -
+/adminer-4.7.4-mysql.php 1 -
+/wp/wp-admin/install.php 1 -
+/doc.php 1 http://continentalranchatcreede.com//doc.php
+/th1s_1s_a_4o4.html 62 -
+/alwso.php 6 -
+/index.html/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 6 -
+/adminer-4.6.1.php 1 -
+/sites/all/libraries/elfinder/php/connector.php 1 -
+/index.html/wp-includes/wlwmanifest.xml 82 -
+/assets/plugins/filemanager/dialog.php 1 -
+/wp-content/plugins/yith-woocommerce-gift-cards-premium/gdpr_info.txt 2 -
+/.sts.php 1 -
+/adminer-4.7.7/ 1 -
+/XxX.php 1 http://continentalranchatcreede.com//XxX.php
+/shop/wp-includes/wlwmanifest.xml 4 -
+/assets/filemanager/dialog.php 1 -
+/old 9 http://continentalranchatcreede.com/old
+/index.html/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 6 -
+/style.php 33 -
+/main 9 http://continentalranchatcreede.com/main
+/google.php 1 http://continentalranchatcreede.com//google.php
+/index.html/blog/wp-includes/wlwmanifest.xml 85 -
+/haxor.php 1 http://continentalranchatcreede.com//haxor.php
+/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/index.html/test/wp-includes/wlwmanifest.xml 85 -
+/assets/js/kcfinder/upload.php 1 -
+/.aws/credentials 2 -
+/wp-admin/xleet.php 1 http://continentalranchatcreede.com//wp-admin/xleet.php
+/data/adminer.php 1 -
+/.well-known/ 3 binance.com
+/abc.php 1 -
+/local/.env 1 -
+/wp-admin/style.php 33 -
+/sql.php 1 -
+/wp-2021.php 1 http://continentalranchatcreede.com//wp-2021.php
+/utchiha.php 1 http://continentalranchatcreede.com//utchiha.php
+/upl.php 1 -
+/news/wp-admin/setup-config.php 1 -
+/wp-easy.php 1 http://continentalranchatcreede.com//wp-easy.php
+/index.html/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 6 -
+/ALFA_DATA/alfacgiapi/perl.alfa 7 www.google.com
+/elfinder/connectors/php/connector.php 2 -
+/assets/elfinder/elfinder.html 1 -
+/wp-content/plugins/ioptimizations/IOptimizes.php 1 www.google.com
+/wp-content/uploads/html2wp/abruzi.php 1 www.google.com
+/adminer-4.7.7-mysql-en.php 1 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/license.txt 3 -
+/wp-content/plugins/wpcargo/includes/barcode.php 1 www.google.com
+/gdpr/gdprscript.js 667 http://www.continentalranchatcreede.com/
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/adminer-4.7.8/ 1 -
+/old/wp-admin/install.php 1 -
+/new 9 http://continentalranchatcreede.com/new
+/admin/filemanager/dialog.php 1 -
+/wp/wp-commentin.php 1 www.google.com
+/old-index.php 1 http://continentalranchatcreede.com//old-index.php
+/ads.txt 103 -
+/wp-content/themes/wp-pridmag/init.php 1 http://continentalranchatcreede.com//wp-content/themes/wp-pridmag/init.php
+/phpmyadmin.php 1 -
+/bedesk1.1/.env 1 -
+/dropzone/dropzone-amd-module.min.js 2 -
+/wp-content/uploads/kaswara/fonts_icon/a57bze8931/.__a57bze8931.php 1 www.google.com
+/bk 7 http://continentalranchatcreede.com/bk
+/up.php 2 http://continentalranchatcreede.com//up.php
+/wp/wp-admin/setup-config.php 1 -
+/blog/wp-admin/install.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 4 -
+/pyazcecg.php 1 www.google.com
+/site/wp-admin/install.php 1 -
+/index.html/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 6 -
+/administration/ac-admin/css/admin-calendar.css 1 -
+/blog/.env 2 -
+/adm.php 1 -
+/wp-info.php 7 http://continentalranchatcreede.com//wp-info.php
+/wp-content/plugins/ioptimizations/a57bze8931.php 1 www.google.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 7 -
+/test/.env 1 -
+/security.txt 1 http://creedeanimalclinic.com/security.txt
+/index.html/2021/wp-includes/wlwmanifest.xml 3 -
+/ini.php 1 http://continentalranchatcreede.com//ini.php
+/index.html/site/wp-includes/wlwmanifest.xml 85 -
+/wp-2019.php 7 http://continentalranchatcreede.com//wp-2019.php
+/adminer-4.7.7-mysql.php 1 -
+/index.html/wp1/wp-includes/wlwmanifest.xml 85 -
+/adminer-4.7.1.php 1 -
+/xv.php 1 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/backup 7 http://continentalranchatcreede.com/backup
+/media-admin.php 1 http://continentalranchatcreede.com//media-admin.php
+/1337.php 1 http://continentalranchatcreede.com//1337.php
+/wp-admin/admin-post.php 1 www.google.com
+/alfacgiapi/perl.alfa 7 www.google.com
+/wp-content/plugins/seoplugins/mar.php 1 http://creedeanimalclinic.com//wp-content/plugins/seoplugins/mar.php
+/wso112233.php 6 -
+/elfinder/php/connector.php 2 -
+/config/aws.yml 1 -
+/feed/ 5 -
+/index.html/news/wp-includes/wlwmanifest.xml 82 -
+/eechcjxh.php 1 www.google.com
+/assets/plugins/dropzone/dropzone-amd-module.min.js 1 -
+/ALFA_DATA/alfacgiapi/ups.php 1 http://continentalranchatcreede.com//ALFA_DATA/alfacgiapi/ups.php
+/media/system/js/core.js 1 http://continentalranchatcreede.com/media/system/js/core.js
+/env/.env 1 -
+/adminer-4.7.0-mysql.php 1 -
+/shell.php 7 http://continentalranchatcreede.com//shell.php
+/backup/wp-admin/install.php 1 -
+/wp-admin/ 1 -
+/marijuana.php 1 http://continentalranchatcreede.com//marijuana.php
+/index.html/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 6 -
+/wp-admin/rss.php 1 http://continentalranchatcreede.com//wp-admin/rss.php
+/adminer-4.7.7-en.php 1 -
+/.git/config 16 -
+/assets/dropzone/dropzone-amd-module.min.js 2 -
+/adminer-4.8.0-mysql.php 1 -
+/wordpress 9 http://continentalranchatcreede.com/wordpress
+/s3cmd.ini 1 -
+/wpx.php 1 http://continentalranchatcreede.com//wpx.php
+/wp-content/themes/seotheme/db.php 8 www.google.com
+/wp-2020.php 1 http://continentalranchatcreede.com//wp-2020.php
+/.gitlab-ci.yml 1 -
+/wp-fox.php 6 -
+/403.php 1 http://continentalranchatcreede.com//403.php
+/wp-content/plugins/core-stab/index.php 1 -
+/adminer-4.7.8.php 1 -
+/adminer/ 1 -
+/adm/adminer.php 1 -
+/about.php 1 http://continentalranchatcreede.com//about.php
+/wp-includes/assets/pi.php 1 http://continentalranchatcreede.com//wp-includes/assets/pi.php
+/dev/.env 2 -
+/wp-content/plugins/ 1 -
+/adminer-4.7.1-mysql-en.php 1 -
+/ninja.php 1 -
+/plugins/kcfinder/upload.php 1 -
+/wsa.php 6 -
+/wp-content/mu-plugins-old/index.php 10 -
+/1h6j5.php 1 http://continentalranchatcreede.com//1h6j5.php
+/adminer-mysql.php 1 -
+/wp-22.php 86 -
+/adminer-4.7.4.php 1 -
+/wikindex.php 19 -
+/baindex.php 1 http://continentalranchatcreede.com//baindex.php
+/wp-includes/ 1 -
+/core/.env 2 -
+/xleet.php 1 http://continentalranchatcreede.com//xleet.php
+/adminer-4.7.5-en.php 1 -
+/admin/ 3 -
+/x.php 1 http://continentalranchatcreede.com//x.php
+/uploads/xleet.php 1 http://continentalranchatcreede.com//uploads/xleet.php
+/02.php 1 http://continentalranchatcreede.com//02.php
+/index.html/2020/wp-includes/wlwmanifest.xml 21 -
+/index.html/wp/wp-includes/wlwmanifest.xml 85 -
+/API/.env 1 -
+/wp-includes/css/buttons.css 4 http://continentalranchatcreede.com/wp-includes/css/buttons.css
+/wp-content/plugins/superstorefinder-wp/ssf-wp-admin/pages/SSF_WP_UPLOADS_PATH/csv/import/abruzi.php 1 www.google.com
+/contact-us/ 3 -
+/site/wp-admin/setup-config.php 1 -
+/wp-admin/css/ 3 binance.com
+/wp-content/plugins/cherry-plugin/admin/import-export/a57bze8931.php 1 www.google.com
+/adminer-4.7.4/ 1 -
+/assets/kcfinder/upload.php 1 -
+/adminer-4.6.3-mysql-en.php 1 -
+/uploads/up.php 1 http://continentalranchatcreede.com//uploads/up.php
+/wp-admin/admin.php 1 www.google.com
+/adminer-4.7.5-mysql.php 1 -
+/wp_wrong_datlib.php 1 http://continentalranchatcreede.com//wp_wrong_datlib.php
+/admin/.env 2 -
+/creedeanimalclinic.com-redirect/index.html 2 -
+/test/wp-admin/install.php 1 -
+/site/wp-commentin.php 1 www.google.com
+/cms/wp-includes/wlwmanifest.xml 4 -
+/nin.php 1 -
+/wp-content/plugins/apikey/a57bze8931.php 1 www.google.com
+/adminer-4.8.0-mysql-en.php 1 -
+/hehe.php 1 http://continentalranchatcreede.com//hehe.php
+/mini.php 1 http://continentalranchatcreede.com//mini.php
+/scripts/filemanager/dialog.php 1 -
+/test 2 -
+/ffAA531.php 6 -
+/up-kon.php 1 http://continentalranchatcreede.com//up-kon.php
+/adminer-4.7.5.php 1 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/wp-commentin.php 56 -
+/3index.php 16 -
+/2020/wp-includes/wlwmanifest.xml 4 -
+/wp-content/plugins/wpyii2/wpyii2.php 2 -
+/admin 2 https://continentalranchatcreede.com/
+/wp-god.php 1 http://continentalranchatcreede.com//wp-god.php
+/good.php 1 http://continentalranchatcreede.com//good.php
+/tools/adminer.php 1 -
+/wp 9 http://continentalranchatcreede.com/wp
+/wp-config.php-backup 1 -
+/by.php 6 -
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 http://continentalranchatcreede.com//wp-includes/customize/class-wp-customize-nav-menu.php
+/.env.backup 1 -
+/adminer-4.7.3.php 1 -
+/uvuveve.php 1 -
+/01.php 1 http://continentalranchatcreede.com//01.php
+/wp-content/plugins/wpzip/wpzip.php 1 -
+/adminer/adminer.php 1 -
+/bqenvodu.php 1 www.google.com
+/assets/plugins/kcfinder/upload.php 1 -
+/w_api/Handler.php 2 www.google.com
+/wp-x.php 1 http://continentalranchatcreede.com//wp-x.php
+/images/vuln.php 1 http://continentalranchatcreede.com//images/vuln.php
+/index.html/mobile 1 -
+/index.html/website/wp-includes/wlwmanifest.xml 82 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 www.google.com
+/mysql.php 1 -
+/adminer-4.7.1/ 1 -
+/sftp-config.json 1 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/.git/HEAD 1 http://creedeanimalclinic.com/.git/HEAD
+/kcfinder/upload.php 1 -
+/contact 8 creedeanimalclinic.com
+/2021/wp-includes/wlwmanifest.xml 4 -
+/laravel/.env 1 -
+/screenshot_1.php 1 http://continentalranchatcreede.com//screenshot_1.php
+/wp-content/plugins/fighter/fk.php 1 http://continentalranchatcreede.com//wp-content/plugins/fighter/fk.php
+/blog/wp-admin/setup-config.php 1 -
+/admin/controller/extension/wpm.php 1 http://continentalranchatcreede.com//admin/controller/extension/wpm.php
+/wordpress/wp-commentin.php 1 www.google.com
+/adminer1.php 1 -
+/2019/wp-includes/wlwmanifest.xml 4 -
+/wp-content/themes/ 1 -
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php 1 www.google.com
+/adminer-4.6.2.php 1 -
+/new/photos.html 1 -
+/blog 2 -
+/wp-content/uploads/typehub/custom/a57bze8931/.__a57bze8931.php 1 www.google.com
+/assets/js/fileupload/server/php/index.php 1 -
+/index.html/cms/wp-includes/wlwmanifest.xml 85 -
+/log.txt 1 -
+/_profiler/phpinfo 1 -
+/radio.txt 1 -
+/index.html/shop/wp-includes/wlwmanifest.xml 84 -
+/wp_logx.php 1 http://continentalranchatcreede.com//wp_logx.php
+/wp-content/languages/ 1 -
+/index.html/media/wp-includes/wlwmanifest.xml 63 -
+/lock360.php 1 http://continentalranchatcreede.com//lock360.php
+/web/wp-admin/install.php 1 -
+/index.html/web/wp-includes/wlwmanifest.xml 85 -
+/misc/ajax.js 1 -
+/www.weebly.com/uploads/reseller/assets/1001-favicon.ico 6 -
+/0z.php 1 http://continentalranchatcreede.com//0z.php
+/.env.bak 1 -
+/new/.env 1 -
+/src/.env 1 -
+/phpinfo.php 1 -
+/wp-includes/1index.php 1 http://continentalranchatcreede.com//wp-includes/1index.php
+/wp-content/plugins/superstorefinder-wp/ssf-wp-admin/pages/import.php 1 www.google.com
+/index.html/wp2/wp-includes/wlwmanifest.xml 82 -
+/upload.php 3 http://continentalranchatcreede.com//upload.php
+/adminer-4.6.2/ 1 -
+/l.php 6 -
+/adminer-4.7.6.php 1 -
+/new/wp-admin/install.php 1 -
+/database/.env 1 -
+/wp-content/x.php 1 www.google.com
+/wxo.php 1 http://continentalranchatcreede.com//wxo.php
+/wp-content/uploads/wp_live_chat/abruzi.php 1 www.google.com
+/admin/adminer.php 1 -
+/index.html/2019/wp-includes/wlwmanifest.xml 84 -
+/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/admin-ajax.php 10 -
+/app/.env 2 -
+/autoload_classmap.php 7 http://continentalranchatcreede.com//autoload_classmap.php
+/payout.php 1 http://continentalranchatcreede.com//payout.php
+/filemanager/dialog.php 1 -
+/Dockerrun.aws.json 1 -
+/test/bedesk1.1/.env 1 -
+/_adminer.php 1 -
+/small.php 1 http://continentalranchatcreede.com//small.php
+/shop/.env 1 -
+/index.html/wp-includes/id3/license.txt/feed/ 6 -
+/wp-json/wp_live_chat_support/v1/remote_upload 1 www.google.com
+/DKIZ.php 1 http://continentalranchatcreede.com//DKIZ.php
+/1.php 1 http://continentalranchatcreede.com//1.php
+/index.html/2018/wp-includes/wlwmanifest.xml 63 -
+/C.php 1 http://continentalranchatcreede.com//C.php
+/ups.php 2 http://continentalranchatcreede.com//ups.php
+/xlt.php 1 http://continentalranchatcreede.com//xlt.php
+/new/index.html 1 -
+/uwcgbykx.php 1 www.google.com
+/mininew.php 1 http://continentalranchatcreede.com//mininew.php
+/index.html/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 6 -
+/auctioneers/ 2 -
+/admin/fileupload/server/php/index.php 4 -
+/adminpanel/ 2 -
+/adminer-4.7.0.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/files/a57bze8931.php 1 www.google.com
+/adminer-4.7.3-mysql.php 1 -
+/wp.php 1 http://continentalranchatcreede.com//wp.php
+/adminer-4.6.3-mysql.php 1 -
+/elfinder/src/connectors/php/connector.php 2 -
+/index.html/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 6 -
+/.env.save 1 -
+/blog/wp-commentin.php 1 www.google.com
+/wp-content/plugins/dzs-zoomsounds/a57bze8931.php 1 www.google.com
+/adminer-4.7.2.php 1 -
+/adminer-4.7.1-mysql.php 1 -
+/wp-content/plugins/apikey/apikey.php 1 www.google.com
+/wso.php 7 http://continentalranchatcreede.com//wso.php
+/admin/plugins/blueimp/server/php/index.php 2 -
+/adminer-4.8.0-en.php 1 -
+/srx.php 1 http://continentalranchatcreede.com//srx.php
+/admin/controller/extension/extension/ 3 binance.com
+/admin/login.php 2 -
+/wp-content/plugins/instabuilder2/cache/up.php 1 www.google.com
+/my-ela/ 1 -
+/dup-installer/main.installer.php 1 http://continentalranchatcreede.com/dup-installer/main.installer.php
+/wp1/wp-includes/wlwmanifest.xml 4 -
+/oldindex.php 6 -
+/wp-content/fw.php 1 http://continentalranchatcreede.com//wp-content/fw.php
+/dropzone/dropzone.js 2 -
+/1index.php 19 -
+/assets/js/dropzone/dropzone-amd-module.min.js 2 -
+/veterinary_topics/c_276_salmonella.html 1 -
+/.DS_Store 2 -
+/wp-content/plugins/ioptimization/a57bze8931.php 1 www.google.com
+/manager/adminer.php 1 -
+/wb_creedeanimalclinic.com/index.html 1 -
+/wp-content/plugins/dos2unix/dos2unix.php 1 -
+/index.html/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 6 -
+/wp-content/plugins/wp-engine-module/a57bze8931.php 1 www.google.com
+/wp-content/ 4 -
+/fileupload/server/php/index.php 2 -
+/pi.php 1 http://continentalranchatcreede.com//pi.php
+/fw.php 1 http://continentalranchatcreede.com//fw.php
+/adminer.php 3 -
+/lol.php 6 -
+/xml.php 1 http://continentalranchatcreede.com//xml.php
+/web/wp-includes/wlwmanifest.xml 4 -
+/new-index.php 1 http://continentalranchatcreede.com//new-index.php
+/assets/plugins/fileupload/server/php/index.php 1 -
+/.well-known/security.txt 1 http://creedeanimalclinic.com/.well-known/security.txt
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 1 http://continentalranchatcreede.com//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/adminer-4.7.6-mysql.php 1 -
+/wp-content/plugins/easybusy/wp-blog.php 1 http://continentalranchatcreede.com//wp-content/plugins/easybusy/wp-blog.php
+/mad.php 1 http://continentalranchatcreede.com//mad.php
+/index.html/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 6 -
+/crm/.env 1 -
+/project/.env 1 -
+/wp-class.php 6 -
+/in.php 1 -
+/njybudfd.php 1 www.google.com
+/assets/scripts/filemanager/dialog.php 1 -
+/home 7 http://continentalranchatcreede.com/home
+/crypted.php 1 http://continentalranchatcreede.com//crypted.php
+/wordpress/wp-admin/setup-config.php 1 -
+/public/.env 1 -
+/wp-includes/ID3/license.txt 4 -
+/.svn/entries 1 -
+/adminer-4.7.7.php 1 -
+/core/misc/drupal.js 1 -
+/xl.php 2 http://continentalranchatcreede.com//xl.php
+/wp-2018.php 1 http://continentalranchatcreede.com//wp-2018.php
+/misc/drupal.js 1 -
+/adminer-4.7.8-mysql.php 1 -
+/index.html/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 6 -
+/adminer-4.6.3.php 1 -
+/humans.txt 6 http://creedeanimalclinic.com/humans.txt
+/adminer-4.7.8-en.php 1 -
+/adminer-4.8.0.php 1 -
+/assets/fileupload/server/php/index.php 2 -
+/xwxx.php 1 http://continentalranchatcreede.com//xwxx.php
+/admin/dropzone/dropzone-amd-module.min.js 1 -
+/wp-2022.php 1 http://continentalranchatcreede.com//wp-2022.php
+/index.html/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 6 -
+/index.html/feed/ 3 -
+/production/.env 1 -
+/logs.php 6 -
+/3x.php 1 http://continentalranchatcreede.com//3x.php
+/.env 26 -
+/index.html/sito/wp-includes/wlwmanifest.xml 82 -
+/wp-blog.php 1 http://continentalranchatcreede.com//wp-blog.php
+/adminer-4.6.3/ 1 -
+/class-wp-widget-archives.php 8 -
+/info.php 1 -
+/adminer-4.6.2-mysql-en.php 1 -
+/js/kcfinder/upload.php 1 -
+/wp-admin/priv8.php 1 http://continentalranchatcreede.com//wp-admin/priv8.php
+/lufix.php 1 http://continentalranchatcreede.com//lufix.php
+/adminer-4.6.2-en.php 1 -
+/index.html/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 6 -
+/wp-content/plugins/wpputty/wpputty.php 3 -
+/CHANGELOG.txt 2 -
+/test/wp-admin/setup-config.php 1 -
+/elfinder/php/connector.minimal.php 2 -
+/wp/wp-includes/wlwmanifest.xml 4 -
+/c.php 1 http://continentalranchatcreede.com//c.php
+/wp-plain.php 7 www.google.com
+/area-attractions.htm 1 http://www.continentalranchatcreede.com/area-attractions.htm
+/mass.php 1 http://continentalranchatcreede.com//mass.php
+/.env.local 1 -
+/reminder.php 1 http://continentalranchatcreede.com//reminder.php
+/nfflrlba.php 1 www.google.com
+/adminer-4.6.2-mysql.php 1 -
+/wp-admin/setup-config.php 2 http://continentalranchatcreede.com//wp-admin/setup-config.php
+/uploader.php 1 -
+/alfa.php 1 http://continentalranchatcreede.com//alfa.php
+/testing 2 -
+/wp-admin/.env 1 -
+/wp-admin/fx.php 1 http://continentalranchatcreede.com//wp-admin/fx.php
+/adminer-4.8.0/ 1 -
+/image/screenshot_1.php 1 http://continentalranchatcreede.com//image/screenshot_1.php
+/2index.php 19 -
+/phpinfo 1 -
+/index.html/m/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 719
+97.121.133.143 93 375 29833750 20221219204854
+184.164.127.20 56 276 13614179 20221228144708
+97.121.147.167 31 121 9848686 20221227094450
+72.169.96.8 27 70 3988539 20221225163553
+107.172.99.240 23 23 264506 20221227213622
+98.172.242.129 23 94 12813702 20221203171704
+216.245.75.89 22 116 13727362 20221230161048
+104.219.149.10 21 120 10060740 20221221172806
+216.245.75.64 18 56 378009 20221230202238
+76.255.190.198 18 43 1580923 20221228123732
+18.191.98.110 1 1 0 20221204025008
+147.182.183.59 1 1 0 20221219092842
+98.156.227.201 8 49 5472255 20221214010930
+8.64.34.174 4 12 119511 20221229130054
+69.63.184.3 0 1 32175 
+43.143.60.88 1 1 14758 20221202155613
+35.88.58.68 1 1 23813 20221215125106
+35.184.229.244 1 1 14758 20221212233728
+87.236.17.140 1 1 0 20221201025751
+199.244.88.219 1 1 24491 20221227031637
+52.32.190.148 1 1 0 20221229122111
+69.171.251.117 0 1 33130 
+5.182.199.233 0 1 371252 
+20.231.50.52 1 1 0 20221205104622
+18.246.47.233 1 1 0 20221223165224
+65.108.82.35 1 1 23813 20221225222735
+64.233.172.109 0 1 0 
+54.213.247.150 1 1 0 20221206142951
+213.24.130.102 3 3 73473 20221227091828
+49.150.11.176 2 6 103893 20221222031228
+47.186.18.118 1 6 227970 20221223150621
+93.158.90.161 0 1 936 
+23.128.248.10 2 2 46798 20221215102153
+198.20.67.200 9 36 528701 20221228140524
+174.198.138.215 6 25 1170046 20221216145627
+52.36.211.185 1 1 24491 20221223143250
+69.171.251.120 0 1 33130 
+188.166.233.21 1 1 0 20221205031359
+45.26.173.198 5 46 2287661 20221231094516
+5.101.157.45 1 1 23813 20221201001908
+103.105.167.13 2 2 21262 20221218011439
+212.102.33.247 5 5 70439 20221216052440
+165.22.48.240 2 2 24491 20221209001852
+97.47.65.172 1 11 575 20221219162751
+138.197.112.89 1 1 23813 20221223121640
+171.13.14.21 1 4 108012 20221223134628
+145.62.64.97 6 42 2638854 20221207102011
+216.109.167.164 2 7 11075 20221205122135
+73.64.123.124 2 9 78166 20221214201209
+167.248.133.60 1 1 23813 20221229083143
+64.140.139.80 1 3 194749 20221218024256
+132.184.130.213 1 1 23813 20221209114920
+162.222.237.121 4 19 4700745 20221202225836
+12.219.127.2 10 46 3681617 20221230094842
+120.244.123.201 0 1 936 
+216.21.220.59 7 27 1680587 20221216010550
+34.106.230.21 1 1 0 20221230165531
+3.16.183.59 11 11 103059 20221212153225
+199.168.150.161 1 1 23813 20221215210945
+35.90.167.214 1 1 24491 20221217143332
+119.111.229.210 2 15 269759 20221212140009
+66.220.149.116 0 1 227 
+172.251.52.160 2 2 24491 20221219155926
+66.102.7.221 0 1 0 
+35.89.28.109 1 1 0 20221220150741
+20.62.145.15 6 6 87531 20221230222701
+65.109.130.81 1 1 0 20221228004920
+98.97.87.62 10 61 3578945 20221228222441
+208.100.26.243 4 4 0 20221225135625
+34.211.46.70 3 16 1157009 20221206192646
+138.199.56.87 1 1 23813 20221223201616
+103.105.167.72 1 1 0 20221223112827
+172.58.139.117 1 5 110341 20221212113135
+64.124.8.54 0 1 371252 
+111.88.34.125 1 1 0 20221209081844
+52.41.45.166 1 1 0 20221224143255
+34.94.182.241 1 1 0 20221212182946
+173.252.107.118 1 1 0 20221205121501
+73.153.135.141 4 21 1379838 20221220202608
+139.177.189.148 1 1 24491 20221224172053
+107.172.51.73 0 1 1004 
+120.244.123.162 0 1 936 
+64.124.8.55 0 2 33130 
+34.86.102.19 3 17 295292 20221219192355
+139.162.6.60 1 1 0 20221224100938
+72.13.62.43 3 3 46414 20221226131340
+40.77.190.14 0 1 227 
+125.22.92.198 1 1 0 20221219124326
+34.219.196.173 1 1 24491 20221220145453
+4.4.177.254 2 3 11897 20221202125554
+216.147.124.174 5 41 4757545 20221226174912
+113.108.9.38 1 1 14758 20221204150849
+184.154.139.8 3 21 412922 20221217140329
+34.217.59.90 1 1 23813 20221220124001
+165.22.103.210 1 1 0 20221215173414
+94.228.117.141 1 1 0 20221224032916
+34.78.96.74 3 3 48304 20221224171721
+103.251.167.21 1 1 20659 20221215102131
+205.169.39.63 4 17 1133573 20221228144155
+62.171.177.111 1 1 0 20221208182627
+98.20.47.141 1 1 14758 20221226201529
+113.133.188.137 1 1 14758 20221210154843
+35.87.83.40 1 1 23813 20221225121806
+70.59.63.107 12 43 1280603 20221222163348
+40.80.149.46 1 1 23813 20221224230216
+94.140.112.62 1 1 23813 20221216220238
+132.147.145.187 8 18 197627 20221215183315
+66.220.149.118 0 1 0 
+130.76.186.18 5 45 5378004 20221228121151
+34.132.96.226 1 1 21711 20221215035325
+54.212.72.127 1 1 0 20221212145529
+166.137.115.20 1 1 14758 20221207124800
+164.68.106.210 1 1 0 20221210030807
+69.171.249.13 1 1 0 20221230224441
+198.124.208.194 0 1 210242 
+47.219.29.129 1 13 950806 20221226122535
+34.106.64.153 1 1 0 20221214174039
+35.245.188.175 4 4 48982 20221228114245
+74.197.230.227 6 28 1443209 20221224093708
+50.58.109.215 6 6 109709 20221202104529
+20.163.121.84 1 1 24491 20221218105751
+24.155.167.230 8 22 1223468 20221212230403
+23.106.192.213 6 6 109046 20221228235811
+109.166.46.244 6 6 86982 20221212090005
+68.69.184.202 3 3 23813 20221224001212
+212.102.33.248 6 6 109046 20221226144714
+71.205.250.79 0 1 371252 
+34.68.251.0 6 20 1173707 20221215035407
+35.91.208.103 1 1 0 20221223165642
+65.38.130.135 2 29 3298599 20221223121830
+34.221.53.117 1 1 23813 20221218121854
+209.141.55.120 1 1 0 20221227111908
+54.202.184.79 1 1 24491 20221224143545
+18.133.60.229 1 1 23813 20221201004313
+35.88.197.43 1 1 23813 20221222123121
+34.219.192.57 1 1 24491 20221221142546
+97.88.108.151 3 30 3587774 20221203212707
+40.90.217.19 0 1 41255 
+35.91.1.48 1 1 23813 20221201121402
+172.224.247.49 4 12 584468 20221207084132
+87.236.176.167 2 2 0 20221218051707
+51.222.97.96 1 1 0 20221208023936
+209.141.49.169 5 5 73473 20221228163034
+73.166.230.139 4 5 86606 20221227002456
+62.109.4.125 1 1 0 20221225145037
+107.116.89.115 2 22 5363364 20221205142113
+166.137.126.114 1 1 0 20221213090023
+74.84.150.150 2 2 23813 20221227180438
+35.89.80.37 1 1 23813 20221231121846
+35.226.226.131 1 1 14758 20221223050439
+159.65.24.22 6 6 87998 20221220022222
+216.245.78.183 8 32 1848212 20221205142002
+34.217.61.191 1 1 23813 20221218121856
+85.193.95.7 1 1 0 20221217001621
+166.196.65.66 0 2 0 
+165.22.254.220 1 1 24491 20221212074359
+151.80.67.229 1 1 23813 20221216224322
+34.125.236.49 1 1 24491 20221219010520
+185.195.71.244 1 1 11322 20221208180607
+209.42.65.139 7 59 4873744 20221201100212
+5.253.207.239 1 1 21711 20221202104328
+216.245.72.173 2 7 129436 20221226230347
+207.46.13.17 0 1 227 
+51.158.37.209 1 1 23813 20221230051438
+185.181.60.189 1 1 23813 20221226105711
+34.106.1.2 1 1 0 20221218044619
+35.235.68.253 1 1 0 20221225203028
+64.124.8.29 0 10 2327724 
+77.74.177.119 4 4 0 20221216124523
+87.236.176.246 1 1 0 20221205155907
+184.154.139.7 2 11 133669 20221223140356
+34.102.37.217 1 1 0 20221218230524
+209.141.51.222 3 3 24491 20221231192241
+87.237.188.124 3 6 23813 20221207114215
+141.255.162.218 1 1 0 20221216080840
+146.190.88.174 1 1 0 20221201213508
+34.220.227.234 1 1 24491 20221202142808
+172.58.107.242 7 29 1272197 20221203144422
+191.235.58.96 1 1 0 20221212012313
+207.102.138.93 1 10 896536 20221205060910
+45.5.65.235 1 1 0 20221206192634
+44.236.207.248 2 13 1025568 20221204221343
+8.48.88.170 7 29 1272646 20221221023555
+3.26.185.74 1 1 0 20221222041345
+45.114.14.246 5 5 109709 20221201041808
+52.43.149.111 1 1 23813 20221207122202
+64.124.8.52 0 1 371252 
+34.125.62.236 1 1 0 20221226203547
+69.171.251.2 1 1 0 20221221161017
+34.221.138.67 1 1 0 20221223122210
+5.188.62.21 3 3 23813 20221228055218
+4.194.155.179 1 1 24491 20221229120048
+216.145.11.94 2 2 0 20221230015517
+174.232.222.2 2 9 180322 20221224090343
+166.113.82.213 1 2 23813 20221222204220
+66.119.59.40 1 2 42332 20221202125541
+93.158.91.242 1 1 24491 20221201182142
+34.133.164.77 1 1 21262 20221215035325
+64.140.128.124 1 15 1223873 20221218024211
+8.8.231.244 2 3 575 20221228230039
+185.156.175.210 1 1 0 20221203173334
+98.184.9.58 10 71 4932320 20221218122229
+173.252.87.20 0 1 33130 
+35.87.19.29 1 1 0 20221208143707
+18.207.254.162 1 1 0 20221207171339
+20.193.131.137 1 1 0 20221223074915
+77.221.130.86 1 1 24491 20221201025441
+159.223.89.107 1 1 24491 20221217120039
+66.220.149.23 0 3 107039 
+54.185.141.194 1 1 0 20221226122218
+223.228.236.198 1 8 188194 20221210051931
+205.169.34.58 7 30 1462725 20221214203038
+104.224.66.180 2 2 21262 20221206021954
+92.223.85.241 1 1 0 20221231013428
+174.198.136.220 2 9 181380 20221217140247
+1.233.166.214 1 1 24491 20221203022045
+184.164.126.179 10 29 1494384 20221228123636
+184.154.139.6 2 16 255667 20221227140159
+54.245.132.143 1 1 0 20221203145435
+52.39.15.16 1 1 0 20221225144835
+34.140.115.72 2 2 23813 20221222083850
+35.190.204.246 1 1 23813 20221229103853
+157.55.39.87 0 1 3611257 
+171.13.14.75 0 3 140318 
+52.35.174.84 1 1 0 20221218143841
+206.248.5.14 2 9 61142 20221211221743
+98.38.234.49 2 2 0 20221219220038
+64.124.8.32 0 9 1512575 
+93.159.230.87 3 3 0 20221216150846
+36.99.136.139 1 1 24491 20221201020729
+216.251.130.74 8 60 4526903 20221230072851
+69.171.231.1 1 1 0 20221207041749
+145.14.135.151 2 9 14758 20221211180851
+173.252.127.5 0 1 0 
+184.103.167.65 8 29 1767809 20221228120820
+34.78.128.92 1 1 0 20221201022831
+31.13.127.120 3 6 72192 20221230225207
+34.217.210.246 1 1 23813 20221212121650
+45.128.77.220 1 1 23813 20221214040625
+64.140.136.216 1 1 23813 20221218024120
+73.50.230.246 7 12 252513 20221226022030
+35.187.118.85 2 2 23813 20221215090611
+128.199.85.164 1 1 0 20221201220312
+54.187.21.52 1 1 24491 20221219143110
+184.105.13.206 2 4 1150 20221205150729
+138.199.56.89 2 6 1088621 20221224142738
+103.150.54.51 1 1 24491 20221206222112
+162.154.243.50 1 12 1025568 20221214195734
+80.68.125.160 1 1 23813 20221212223112
+80.120.129.210 1 1 0 20221210105555
+35.245.82.188 4 4 73473 20221227100446
+149.34.246.122 2 2 0 20221222113901
+199.101.219.155 4 33 2595719 20221222155314
+178.62.82.141 5 5 118584 20221201201028
+166.198.28.50 6 37 4831616 20221201174311
+35.89.116.88 1 1 0 20221207140357
+166.170.14.51 2 2 12216 20221217101501
+158.62.8.65 9 39 2497676 20221231031233
+173.252.95.17 0 1 3034342 
+34.222.138.88 1 1 0 20221219144636
+146.196.33.49 2 13 1050059 20221220074236
+35.89.163.41 1 1 23813 20221208123723
+88.198.65.172 5 5 94093 20221227152039
+54.218.69.183 1 1 23813 20221222123118
+34.125.103.29 1 1 0 20221219225553
+54.245.197.157 1 1 23813 20221206123907
+35.90.227.168 1 1 24491 20221207140218
+65.21.7.254 0 1 3611257 
+166.137.143.29 1 1 14758 20221210164655
+173.252.95.1 1 1 0 20221224034852
+35.163.241.128 1 1 23813 20221230122100
+146.148.12.228 2 2 23813 20221217152129
+69.171.230.4 1 1 0 20221221135350
+52.26.69.12 1 1 0 20221220150853
+75.163.191.3 10 48 3811961 20221228141028
+128.90.90.194 1 1 0 20221206154403
+3.122.25.98 1 1 24491 20221201012345
+93.158.90.142 1 1 14758 20221212005733
+54.201.53.145 1 1 23813 20221231121926
+34.221.247.31 1 1 0 20221217121506
+98.184.99.152 4 12 620207 20221229115354
+15.235.200.217 3 3 0 20221229221800
+74.213.198.46 3 4 506592 20221211230816
+66.162.100.67 0 3 820167 
+27.78.43.36 2 3 575 20221220100421
+149.56.150.190 1 1 0 20221211230245
+171.8.172.218 0 1 936 
+64.124.8.51 1 2 398003 20221205021551
+170.64.149.230 1 1 0 20221230192758
+31.13.127.3 0 1 19350 
+54.188.174.114 1 1 23813 20221203121840
+54.245.13.142 1 1 0 20221229122044
+64.124.8.28 1 1 21408 20221203085751
+92.223.85.245 1 1 24491 20221222044138
+65.21.206.46 1 1 0 20221229003633
+97.107.68.55 2 10 1884228 20221206174804
+82.180.128.61 1 1 24491 20221201003032
+34.125.48.158 1 1 0 20221212200252
+34.125.3.188 1 1 24491 20221227162647
+34.93.61.237 1 1 14758 20221212200945
+209.141.36.112 1 1 0 20221219115909
+199.76.90.66 2 15 1134055 20221208125830
+212.102.33.246 5 5 70439 20221204195426
+64.140.135.150 1 3 261441 20221218024240
+110.14.63.77 1 1 0 20221202180238
+216.147.121.38 10 64 5600463 20221230085832
+166.194.132.19 12 62 8862559 20221208173843
+111.207.155.211 2 2 23813 20221228122043
+92.223.85.235 1 1 24491 20221230102031
+184.154.76.34 7 37 625332 20221231140238
+34.71.10.217 1 1 22727 20221215035326
+173.252.107.15 0 1 33130 
+184.154.139.5 4 22 274413 20221230140627
+20.251.116.94 1 1 23813 20221221053633
+34.79.174.58 3 3 47626 20221221041452
+64.124.8.38 1 1 21711 20221204055532
+145.14.135.145 3 10 234288 20221211221200
+165.232.32.251 1 1 0 20221231225053
+15.181.16.43 6 42 2515295 20221218131153
+206.189.90.119 2 2 0 20221208231410
+173.252.107.20 0 1 0 
+172.58.160.5 1 6 696532 20221212113337
+52.26.164.60 1 14 65450 20221223112834
+107.77.199.109 1 8 128713 20221213090030
+52.11.253.40 1 1 0 20221225121801
+116.202.209.244 1 2 227 20221227222100
+172.226.3.81 1 1 11913 20221207091407
+162.142.125.7 1 1 24491 20221209083121
+35.92.127.148 1 1 24491 20221209143146
+35.86.146.122 1 1 0 20221226141906
+40.77.202.39 0 1 12369 
+23.29.32.74 1 1 23813 20221219155110
+31.13.127.8 0 1 0 
+54.212.98.129 1 1 0 20221201144152
+173.252.95.14 1 1 0 20221201211230
+209.141.33.65 1 1 0 20221206085207
+171.13.14.17 1 4 55178 20221223134633
+172.121.219.181 6 6 42310 20221227235421
+154.21.208.147 1 6 70308 20221201063501
+107.77.230.20 3 27 2502305 20221217101503
+66.198.214.5 4 6 12472 20221228141939
+67.40.92.251 4 37 290 20221227165736
+166.196.65.51 0 2 0 
+52.35.18.50 1 1 0 20221203142642
+205.185.121.69 1 1 0 20221201225409
+173.252.79.8 0 1 36921 
+34.106.141.93 1 1 0 20221215215514
+13.58.250.168 1 1 0 20221231095639
+1.192.195.5 1 1 0 20221230060308
+44.192.94.205 1 1 0 20221207173948
+34.106.27.115 1 1 24491 20221212132731
+172.176.67.238 1 1 23813 20221206164955
+5.189.170.101 1 1 0 20221221212027
+35.160.218.101 1 1 24491 20221231145232
+51.159.102.248 1 1 23813 20221231085129
+96.78.136.9 2 15 1157868 20221228144149
+18.236.222.63 1 1 0 20221215125107
+34.102.72.230 1 1 0 20221222155134
+64.140.130.131 1 1 22601 20221218024232
+64.124.8.53 0 1 357100 
+206.189.80.208 1 1 0 20221225145053
+34.212.29.219 0 1 227 
+34.125.66.103 1 1 0 20221227222836
+172.58.138.64 3 7 927662 20221212113227
+172.221.85.67 2 29 2348382 20221206103945
+199.244.88.224 1 1 23813 20221202085149
+99.147.140.155 2 3 25066 20221228200609
+34.221.91.146 1 1 0 20221219123347
+166.181.84.125 2 8 137647 20221229155820
+208.100.26.235 1 1 14758 20221215124458
+205.185.116.25 2 2 0 20221211212201
+174.205.165.148 12 66 9037610 20221212193912
+64.124.8.30 0 1 376595 
+69.171.251.22 0 1 54131 
+31.13.115.112 1 3 348 20221228194100
+70.121.70.57 3 21 1078768 20221229022238
+13.69.199.207 1 1 0 20221205082838
+172.58.58.56 0 1 0 
+171.13.14.76 0 1 5706 
+148.251.123.46 1 1 23813 20221219021952
+146.190.81.41 2 2 0 20221204185246
+34.106.133.119 1 1 24491 20221223020459
+103.145.51.43 1 1 24491 20221201021735
+173.252.83.9 0 2 3034342 
+173.252.83.17 0 1 33130 
+54.186.52.94 1 1 0 20221230144045
+71.37.25.222 0 1 303740 
+35.223.64.14 1 1 23813 20221215035325
+45.137.43.180 1 1 0 20221215001709
+65.21.206.45 1 1 23813 20221207152335
+172.58.160.182 0 1 232990 
+54.202.91.105 1 1 0 20221227143313
+34.222.2.209 1 1 0 20221217141742
+104.222.162.71 1 1 0 20221206192635
+216.245.77.52 8 55 4754537 20221228122024
+185.142.239.49 1 1 0 20221228185942
+64.124.8.24 1 1 21711 20221210115239
+34.125.155.67 1 1 0 20221228220625
+70.171.111.30 5 14 1100859 20221217090520
+34.174.170.219 1 1 0 20221229140210
+213.24.130.107 9 9 73473 20221229211840
+24.56.170.154 1 2 227 20221214155642
+5.188.62.26 1 1 0 20221218150053
+34.125.142.58 2 2 19501 20221212064551
+2.57.122.115 1 1 23813 20221221102807
+34.216.254.166 1 1 24491 20221210142304
+54.245.60.211 1 1 0 20221221121445
+165.23.227.95 5 13 15728 20221228192006
+209.127.99.87 1 1 0 20221203070919
+31.13.127.119 1 2 30672 20221229071552
+69.171.249.18 0 1 0 
+166.205.209.27 1 1 14758 20221206194759
+140.246.164.95 1 1 14758 20221218161112
+34.216.61.173 1 1 0 20221229144049
+95.216.6.149 1 1 24491 20221203190050
+34.69.201.99 1 1 22601 20221215035325
+194.180.48.42 1 1 0 20221202031535
+69.171.251.116 0 1 54131 
+149.56.150.213 1 8 899553 20221211230305
+95.216.195.187 1 1 23813 20221203231008
+23.106.193.88 1 1 0 20221212085956
+68.103.147.166 6 35 4856906 20221218002942
+34.125.30.95 1 1 14758 20221209225059
+52.125.128.6 0 1 33130 
+182.43.148.98 2 2 26080 20221216144151
+54.244.216.83 1 1 24491 20221215143908
+35.209.115.170 1 1 0 20221227160534
+75.119.132.189 2 3 19698 20221231032539
+140.228.217.2 2 6 569710 20221231124107
+3.71.21.122 1 1 24491 20221202204437
+59.93.74.18 1 1 23813 20221220181804
+31.13.127.27 1 1 348 20221228135644
+98.165.223.82 10 63 9635832 20221228173632
+216.245.72.219 4 12 240704 20221230101856
+54.184.55.157 1 1 23813 20221214123603
+73.24.137.8 3 32 6431071 20221201145052
+50.27.4.18 4 41 5288157 20221202224817
+216.147.121.225 6 17 141908 20221202213826
+35.217.15.240 1 1 23813 20221227084620
+185.213.154.213 2 2 23813 20221202023731
+184.154.139.9 0 20 341937 
+89.187.175.10 1 1 0 20221214114740
+35.87.28.105 1 1 23813 20221205121328
+66.90.249.225 2 9 78311 20221203085102
+209.141.36.231 3 3 24491 20221222063247
+64.124.8.58 2 2 22727 20221205025814
+174.7.32.199 1 6 378056 20221201063528
+14.29.140.161 1 1 11322 20221201125328
+138.199.58.76 2 2 0 20221227190320
+35.87.145.36 1 1 0 20221222141351
+166.181.80.51 0 4 1443440 
+54.185.0.20 1 1 0 20221206061012
+66.220.149.21 2 4 22397 20221228120826
+34.210.22.86 1 1 0 20221227122643
+93.158.91.180 1 1 0 20221211011808
+34.229.220.187 1 1 0 20221203070112
+50.24.31.112 6 6 88447 20221214154724
+18.236.123.233 1 1 0 20221216124031
+45.72.48.130 2 2 47626 20221212200529
+54.191.140.49 1 1 0 20221209120849
+184.164.127.143 3 15 1150 20221230123130
+208.100.26.236 2 2 38571 20221227185912
+52.41.132.192 1 1 0 20221215143406
+72.77.49.163 2 2 145 20221208153919
+35.93.1.155 1 1 0 20221214144646
+87.236.176.22 1 1 23813 20221212234341
+104.224.66.75 1 1 0 20221223112821
+54.202.12.67 1 1 0 20221205142334
+50.26.93.35 9 37 2016301 20221230130828
+192.198.123.146 1 1 0 20221204065030
+35.89.255.86 0 1 227 
+35.187.31.229 1 1 24491 20221224173711
+113.133.188.198 1 1 0 20221207001218
+66.220.149.22 1 1 348 20221228151126
+172.110.146.114 1 1 0 20221228235729
+158.62.154.187 2 15 963175 20221217225034
+104.232.39.35 1 1 0 20221223112824
+152.39.179.47 1 5 118588 20221205122050
+51.89.201.226 6 6 109709 20221218184805
+64.246.178.34 1 1 24491 20221211214104
+18.188.3.221 2 13 1050059 20221202123230
+47.221.65.86 4 27 2356743 20221205150144
+172.176.66.39 1 1 0 20221206165554
+45.29.184.98 4 41 5324339 20221226111604
+209.141.41.193 3 3 24491 20221210205114
+98.96.202.131 1 1 21711 20221203185140
+35.90.244.13 1 1 23813 20221223122639
+104.131.0.131 0 1 581597 
+54.188.38.157 0 1 227 
+31.61.173.176 1 1 0 20221201044838
+194.38.20.161 1 1 0 20221225054519
+45.132.115.233 0 1 0 
+149.154.161.213 0 1 494389 
+35.146.158.132 2 15 1157868 20221210134406
+40.77.188.57 0 1 12369 
+5.101.156.245 1 1 23813 20221201042032
+31.13.127.5 1 1 348 20221229045927
+146.190.88.25 1 1 0 20221201030725
+172.58.138.73 0 3 851181 
+35.83.39.174 1 1 0 20221201102232
+154.202.117.240 1 1 0 20221209155939
+116.104.242.112 1 1 23813 20221213171638
+185.108.105.210 1 1 21408 20221204024907
+68.145.136.235 0 1 371252 
+104.168.40.29 1 1 23813 20221206021952
+141.98.24.65 1 1 0 20221229030530
+207.32.146.77 1 5 234194 20221218024222
+63.251.232.70 1 1 0 20221226010658
+66.94.107.177 2 15 1157868 20221202132321
+206.189.150.21 1 1 0 20221201050301
+35.185.241.102 7 7 73473 20221230091108
+34.102.27.220 1 1 0 20221218175250
+70.190.236.89 8 23 1101341 20221228131752
+35.166.198.245 1 1 24491 20221204142859
+98.50.104.62 4 16 2049546 20221229120147
+14.162.224.195 1 1 0 20221224174307
+34.79.230.17 1 1 0 20221218193826
+95.164.159.117 1 1 0 20221205074517
+34.125.32.224 1 1 0 20221227202148
+52.10.42.40 1 1 24491 20221211142211
+213.24.130.100 5 5 24491 20221219151726
+51.254.199.11 7 7 48304 20221225013253
+54.184.182.245 1 1 23813 20221211121321
+34.102.126.35 1 1 0 20221220175712
+208.100.26.246 1 1 14758 20221201031558
+172.58.143.12 0 6 899432 
+199.66.168.10 2 8 14758 20221224132904
+208.100.26.247 1 1 0 20221218134320
+174.247.179.169 7 27 4873491 20221220154853
+69.171.231.120 0 1 33130 
+64.124.8.23 0 3 992817 
+115.200.165.136 1 1 0 20221217015314
+52.26.109.37 1 1 0 20221207122231
+173.252.95.120 1 1 0 20221207154716
+71.34.133.114 1 12 1025568 20221229152845
+79.185.151.164 1 1 0 20221201044839
+35.189.215.79 3 3 48304 20221227021650
+207.32.158.66 0 1 357100 
+51.15.91.122 1 1 0 20221219181129
+165.225.32.95 4 35 3470068 20221214160927
+18.237.235.243 1 1 0 20221204121331
+107.77.197.53 6 43 2785518 20221205093854
+20.7.67.21 1 1 0 20221206164713
+14.225.44.11 1 1 0 20221212004820
+167.99.79.43 1 1 24491 20221229143537
+34.215.29.17 1 1 23813 20221214123601
+107.115.203.144 4 16 223788 20221204151355
+107.77.196.26 0 11 3512568 
+103.146.232.185 1 1 0 20221202111227
+70.59.60.91 6 23 1199765 20221225191117
+3.95.172.230 1 1 0 20221205072222
+199.244.88.226 1 1 0 20221222030625
+166.196.65.72 0 2 0 
+208.100.26.249 1 1 0 20221220090216
+64.124.8.57 0 1 357100 
+34.219.173.134 1 1 23813 20221213120110
+84.17.34.47 1 1 0 20221224040955
+31.13.127.12 0 2 52832 
+31.13.103.19 1 1 0 20221228135716
+192.71.30.89 1 1 11322 20221222002115
+20.38.6.207 1 1 0 20221206081953
+54.200.176.101 1 1 23813 20221201121617
+52.42.146.89 1 1 23813 20221210121443
+50.84.48.188 1 2 25229 20221222221647
+34.106.138.70 1 1 24491 20221225181229
+34.77.72.105 2 2 23813 20221231191816
+34.140.107.62 4 4 72795 20221223090234
+64.124.8.21 1 1 0 20221211004744
+172.58.162.93 0 1 332117 
+212.102.33.250 1 1 0 20221213073124
+107.115.5.65 1 1 14758 20221214153621
+20.241.233.77 9 11 165501 20221230115636
+213.24.130.101 5 5 24491 20221231091756
+72.18.158.238 1 1 0 20221222163458
+176.116.230.80 1 1 23813 20221205101418
+98.32.17.41 2 6 87104 20221228121852
+54.212.134.171 1 1 0 20221211121316
+72.175.92.194 2 3 11897 20221228121017
+146.70.91.47 1 1 23813 20221209171844
+184.164.126.203 6 34 1229658 20221228185207
+54.184.33.13 1 1 0 20221213143129
+216.147.125.58 1 2 14758 20221219095821
+167.172.16.105 1 1 14758 20221201034701
+52.27.57.30 1 1 24491 20221216141718
+34.222.113.21 1 1 0 20221202142941
+69.63.189.2 0 1 33130 
+173.252.83.7 0 1 33130 
+73.26.57.58 6 40 6677779 20221208140428
+171.13.14.13 0 1 58150 
+107.175.13.234 1 1 0 20221206023106
+8.41.221.55 1 1 0 20221230195925
+64.124.8.40 1 1 0 20221210155552
+23.83.87.243 1 1 0 20221229034421
+42.83.147.34 2 2 0 20221212233547
+132.147.145.179 10 31 4105084 20221223113516
+54.89.255.195 1 1 0 20221203041420
+138.122.193.134 1 1 0 20221205062722
+31.13.127.7 0 3 107039 
+212.102.33.242 5 5 65397 20221213073150
+164.90.184.41 2 2 0 20221220001127
+209.126.86.238 1 1 0 20221230214534
+3.144.34.230 4 5 23958 20221229204137
+35.89.167.240 1 1 0 20221209141837
+20.163.80.30 1 1 24491 20221213084502
+34.106.105.27 1 1 0 20221213222351
+172.58.163.86 1 11 1118549 20221212113338
+157.245.193.156 1 1 0 20221218101320
+67.165.221.246 3 16 1121831 20221204190537
+34.78.36.141 2 2 47626 20221213215035
+162.203.41.0 0 18 0 
+35.85.36.45 1 1 23813 20221215130326
+34.106.50.188 1 1 24491 20221221120334
+144.217.73.239 2 2 23813 20221209184702
+72.204.155.251 1 8 234433 20221219173903
+3.15.220.189 3 5 37435 20221213204058
+195.201.36.108 1 1 0 20221227052609
+54.200.70.158 1 1 24491 20221204142826
+34.79.246.102 2 2 24491 20221210131225
+70.189.104.125 7 29 51436 20221204195319
+121.110.214.157 1 1 0 20221205045258
+70.182.133.162 1 3 211409 20221228105351
+172.58.142.210 2 4 672051 20221212113215
+35.188.53.245 6 6 66483 20221217094219
+27.115.124.109 2 4 14758 20221215172515
+35.88.140.189 1 1 0 20221218144442
+35.163.244.74 1 1 23813 20221226122201
+99.12.87.179 10 64 9281902 20221226181844
+171.13.14.6 1 4 790707 20221223134626
+89.117.20.171 1 1 0 20221229085840
+208.100.26.237 1 1 14758 20221209002544
+79.185.151.37 2 3 19698 20221210170847
+34.125.226.21 1 1 24491 20221229130137
+34.239.138.236 1 1 23813 20221230135439
+104.165.105.110 4 4 90403 20221227235415
+217.21.94.150 1 1 24491 20221201001259
+107.77.209.83 4 36 24103 20221227235450
+151.248.1.125 1 1 23813 20221203063800
+8.64.34.151 2 3 25066 20221228132224
+205.185.116.89 2 2 0 20221202163224
+57.128.85.242 1 1 0 20221226121836
+15.235.12.96 1 1 0 20221201213313
+45.26.22.160 4 12 123165 20221228202004
+172.58.140.229 0 3 507629 
+76.72.172.162 1 1 23813 20221203035058
+67.143.192.68 1 9 2283277 20221225104611
+173.252.79.3 0 1 33130 
+67.176.11.92 3 16 999059 20221210145425
+54.185.146.133 2 15 1065331 20221207025504
+166.137.115.29 1 7 238546 20221225163130
+31.13.127.116 1 4 348 20221229071553
+23.254.2.100 2 3 36327 20221210061046
+151.205.163.121 2 15 1157868 20221230142425
+44.211.164.16 1 1 0 20221221205637
+64.124.8.25 1 1 22601 20221209214707
+35.86.162.19 1 1 23813 20221210121443
+173.252.83.14 0 1 3034342 
+54.147.120.52 1 1 0 20221227060029
+34.16.130.4 1 1 0 20221219182424
+34.80.48.123 1 1 0 20221223025415
+18.237.182.242 1 1 23813 20221224121440
+52.27.199.159 1 1 24491 20221206172816
+209.141.35.128 1 1 0 20221228124448
+34.68.72.80 1 1 21408 20221215035326
+172.58.162.123 1 1 145 20221212113421
+172.58.141.81 1 1 145 20221212113422
+79.110.184.121 1 1 0 20221218191050
+66.220.149.13 1 2 11549 20221228151124
+199.244.88.227 1 1 0 20221204051837
+23.116.80.201 2 3 11897 20221228140530
+204.101.161.32 1 8 877711 20221205060919
+172.58.140.201 1 1 145 20221212113317
+54.191.33.248 1 1 23813 20221221121426
+34.78.102.4 2 2 48304 20221227015654
+27.115.124.70 1 2 42332 20221221162509
+23.129.64.133 1 1 24491 20221215102053
+136.226.64.117 2 15 1125693 20221206161622
+173.252.95.22 1 1 0 20221207064530
+3.237.88.19 1 1 24491 20221213022817
+176.74.192.85 2 4 15694 20221223002235
+107.165.134.58 1 1 0 20221207025451
+52.43.248.29 1 1 23813 20221206123904
+204.62.26.98 1 4 63408 20221214162145
+104.41.228.253 1 1 21408 20221205082842
+147.182.248.158 2 2 24491 20221206191351
+185.181.60.12 2 2 0 20221217001612
+31.163.115.95 1 1 0 20221227133440
+46.172.223.105 6 6 0 20221219171434
+166.137.115.36 1 5 152508 20221213130555
+101.68.211.2 2 2 23813 20221226123549
+50.84.48.187 1 2 23813 20221221105859
+45.5.65.233 1 1 23813 20221218011438
+27.115.124.101 2 6 80063 20221221162502
+209.141.34.187 2 2 24491 20221205131909
+76.77.250.22 1 1 14758 20221211095442
+34.83.103.204 1 1 24491 20221230164824
+129.62.68.82 0 2 728352 
+184.164.127.4 6 33 1848408 20221228194621
+173.252.83.22 0 1 36921 
+72.13.62.26 3 3 68294 20221225092220
+69.63.184.117 1 1 0 20221226230347
+69.171.231.8 0 1 3034342 
+174.51.132.100 0 10 0 
+31.13.127.13 1 3 41248 20221228135643
+130.185.156.126 5 5 0 20221229034447
+93.159.230.83 3 3 0 20221216135349
+194.156.136.182 1 1 14758 20221205133438
+35.223.102.189 1 1 0 20221220210637
+34.223.0.37 1 1 0 20221230143307
+143.198.181.165 3 3 47771 20221205034149
+89.187.161.240 1 1 0 20221217094016
+221.15.254.74 0 1 0 
+34.216.186.147 1 1 23813 20221204121427
+34.215.251.72 1 1 0 20221228123520
+185.220.101.14 1 1 0 20221228061350
+216.145.17.190 1 1 0 20221229230257
+31.13.115.118 1 4 30672 20221228194058
+172.58.143.202 0 4 1043890 
+173.252.107.18 1 1 0 20221221172535
+87.249.135.143 2 9 249046 20221223191918
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20221201 61 192 17975683 40
+20221202 44 142 13512304 26
+20221203 65 231 22300108 28
+20221204 28 65 2903029 21
+20221205 56 192 13977732 38
+20221206 33 105 9987408 28
+20221207 36 120 6026386 24
+20221208 34 140 16914020 16
+20221209 21 26 320339 20
+20221210 37 104 6919082 24
+20221211 22 50 1672152 18
+20221212 73 205 18963726 35
+20221213 32 125 4685258 17
+20221214 63 276 19900707 24
+20221215 41 81 5320248 27
+20221216 36 82 3495053 21
+20221217 33 105 8509867 19
+20221218 71 273 19927427 32
+20221219 105 355 25186512 32
+20221220 45 110 7782935 22
+20221221 35 97 10783642 22
+20221222 69 256 14186382 28
+20221223 30 117 10354516 27
+20221224 25 51 1637586 21
+20221225 60 194 19495396 21
+20221226 64 278 22271990 24
+20221227 85 247 10491085 31
+20221228 171 608 35182515 54
+20221229 48 113 7281819 30
+20221230 100 405 28283419 29
+20221231 29 116 6623667 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 13
+0s-30s 734
+2mn-5mn 24
+30s-2mn 30
+15mn-30mn 4
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 747 7461572 704 556
+/ajax/api/JsonRPC/CustomerAccounts/ 472 112694 42 159
+/w_api/Handler.php 75 0 10 29
+/cabins.html 66 991196 15 11
+/rates-and-reservations.html 63 949383 13 11
+/photos-and-directions.html 47 788599 9 7
+/area-attractions.html 41 633813 9 11
+/story-of-the-ranch.html 37 563916 6 18
+/our-services.html 28 493058 1 2
+/photos.html 25 523643 0 2
+/blog/robots.txt 2 0 2 2
+/404.php 1 4743 1 1
+/INDEX.HTML 2 57062 0 0
+/stats/ 1 268 0 0
+/meet-the-team.html 23 383548 1 1
+/find-us.html 18 333405 1 3
+/indexold.html 1 13665 0 0
+/stats/awstats/cgi-bin/awstats.pl 3 97388 0 1
+END_SIDER
