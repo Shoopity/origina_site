@@ -1,0 +1,1 @@
+{"pages":["photos-and-directions.html","cabins.html","index.html","area-attractions.html","story-of-the-ranch.html","rates-and-reservations.html"],"protected":{"Home":false,"Cabins":false,"Rates and Reservations":false,"Story of the Ranch":false,"Area Attractions":false,"Photos and Directions":false}}
