@@ -72,7 +72,7 @@
 .wsite-product .wsite-product-price a {}
 }</style>
 <style>
-.wsite-background {background-image: url("/uploads/3/4/7/3/34735303/background-images/1030687858.jpg") !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: 100% !important;background-color: transparent !important;background: inherit;}
+.wsite-background {background-image: url("./uploads/3/4/7/3/34735303/background-images/1030687858.jpg") !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: 100% !important;background-color: transparent !important;background: inherit;}
 body.wsite-background {background-attachment: fixed !important;}.wsite-background.wsite-custom-background{ background-size: cover !important}
 </style>
 <style type='text/css'>
