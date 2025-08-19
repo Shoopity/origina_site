@@ -1,4 +1,0 @@
-Sitemap: http://continentalranchatcreede.com/sitemap.xml
-
-User-agent: *
-Disallow: 
